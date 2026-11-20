@@ -1,0 +1,22 @@
+condicao,papel,grupo,definicao,projetos,grandes,historias,chance_media,ic95_inf,ic95_sup,projetos_acima_de_0_5,p_wilcoxon,grandes_com_cartao_acima_pct,cartao_acima_que_eram_grandes_pct,valor_medio_grandes_mesmo_cartao,valor_medio_tipicas_mesmo_cartao
+base (TF-IDF + SVR),principal,Deep-SE,dois_cartoes,13,579,4671,0.6814,0.6266,0.7306,12.0000,0.0005,59.2401,28.1609,4.1982,4.1046
+base (TF-IDF + SVR),principal,Deep-SE,13_ou_mais,8,305,4671,0.6778,0.6001,0.7496,7.0000,0.0156,50.1639,12.5616,4.9146,4.1046
+base (TF-IDF + SVR),principal,Deep-SE,um_cartao,16,1365,4671,0.6661,0.6293,0.7017,16.0000,0.0000,44.8352,50.2463,4.2195,4.1046
+TF-IDF original (experimento principal),sem decidir,Deep-SE,dois_cartoes,13,579,4671,0.6814,0.6266,0.7306,12.0000,0.0005,59.2401,28.1609,4.1982,4.1046
+TF-IDF original (experimento principal),sem decidir,Deep-SE,13_ou_mais,8,305,4671,0.6778,0.6001,0.7496,7.0000,0.0156,50.1639,12.5616,4.9146,4.1046
+TF-IDF original (experimento principal),sem decidir,Deep-SE,um_cartao,16,1365,4671,0.6661,0.6293,0.7017,16.0000,0.0000,44.8352,50.2463,4.2195,4.1046
+base (TF-IDF + SVR),principal,TAWOS,dois_cartoes,15,552,5988,0.6586,0.6014,0.7125,13.0000,0.0006,45.4710,23.7689,2.9777,3.0940
+base (TF-IDF + SVR),principal,TAWOS,13_ou_mais,7,155,5988,0.7215,0.6299,0.8119,7.0000,0.0156,23.8710,3.5038,3.4801,3.0940
+base (TF-IDF + SVR),principal,TAWOS,um_cartao,22,1597,5988,0.6210,0.5773,0.6605,18.0000,0.0000,36.4433,55.1136,2.9991,3.0940
+base (TF-IDF + SVR),principal,"TAWOS, so os 13 projetos novos",dois_cartoes,7,214,2011,0.6558,0.5799,0.7329,6.0000,0.0312,62.6168,21.0361,2.5986,2.4609
+base (TF-IDF + SVR),principal,"TAWOS, so os 13 projetos novos",13_ou_mais,1,14,2011,0.7667,0.7667,0.7667,1.0000,,21.4286,0.4710,2.7947,2.4609
+base (TF-IDF + SVR),principal,"TAWOS, so os 13 projetos novos",um_cartao,13,745,2011,0.5968,0.5409,0.6506,10.0000,0.0046,50.2013,58.7127,2.5700,2.4609
+TF-IDF original (experimento principal),sem decidir,TAWOS,dois_cartoes,15,552,5988,0.6615,0.6044,0.7140,13.0000,0.0006,46.9203,24.9038,3.0173,3.1249
+TF-IDF original (experimento principal),sem decidir,TAWOS,13_ou_mais,7,155,5988,0.7183,0.6283,0.8075,7.0000,0.0156,26.4516,3.9423,3.6498,3.1249
+TF-IDF original (experimento principal),sem decidir,TAWOS,um_cartao,22,1597,5988,0.6141,0.5627,0.6608,17.0000,0.0003,35.7545,54.9038,3.0233,3.1249
+TF-IDF original (experimento principal),sem decidir,"TAWOS, so os 13 projetos novos",dois_cartoes,7,214,2011,0.6594,0.5839,0.7319,6.0000,0.0312,65.8879,23.3058,2.6629,2.5186
+TF-IDF original (experimento principal),sem decidir,"TAWOS, so os 13 projetos novos",13_ou_mais,1,14,2011,0.7444,0.7444,0.7444,1.0000,,50.0000,1.1570,3.2870,2.5186
+TF-IDF original (experimento principal),sem decidir,"TAWOS, so os 13 projetos novos",um_cartao,13,745,2011,0.5839,0.5147,0.6530,9.0000,0.0479,47.3826,58.3471,2.6178,2.5186
+TF-IDF + SVR,principal,RoomBook,dois_cartoes,0,3,50,,,,,,0.0000,,5.9482,5.1934
+TF-IDF + SVR,principal,RoomBook,13_ou_mais,0,3,50,,,,,,0.0000,,5.9482,5.1934
+TF-IDF + SVR,principal,RoomBook,um_cartao,1,14,50,0.8115,0.8115,0.8115,1.0000,,0.0000,,5.5580,5.1934

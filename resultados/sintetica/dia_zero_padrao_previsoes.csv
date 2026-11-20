@@ -1,0 +1,601 @@
+issuekey,storypoint,condicao,previsao,valida
+HIST-201,8.0,valor tipico de outras equipes,3.0,True
+HIST-202,13.0,valor tipico de outras equipes,3.0,True
+HIST-203,5.0,valor tipico de outras equipes,3.0,True
+HIST-204,3.0,valor tipico de outras equipes,3.0,True
+HIST-205,5.0,valor tipico de outras equipes,3.0,True
+HIST-206,3.0,valor tipico de outras equipes,3.0,True
+HIST-207,2.0,valor tipico de outras equipes,3.0,True
+HIST-208,5.0,valor tipico de outras equipes,3.0,True
+HIST-209,5.0,valor tipico de outras equipes,3.0,True
+HIST-210,3.0,valor tipico de outras equipes,3.0,True
+HIST-211,8.0,valor tipico de outras equipes,3.0,True
+HIST-212,8.0,valor tipico de outras equipes,3.0,True
+HIST-213,5.0,valor tipico de outras equipes,3.0,True
+HIST-214,5.0,valor tipico de outras equipes,3.0,True
+HIST-215,3.0,valor tipico de outras equipes,3.0,True
+HIST-216,8.0,valor tipico de outras equipes,3.0,True
+HIST-217,5.0,valor tipico de outras equipes,3.0,True
+HIST-218,5.0,valor tipico de outras equipes,3.0,True
+HIST-219,3.0,valor tipico de outras equipes,3.0,True
+HIST-220,8.0,valor tipico de outras equipes,3.0,True
+HIST-221,5.0,valor tipico de outras equipes,3.0,True
+HIST-222,5.0,valor tipico de outras equipes,3.0,True
+HIST-223,3.0,valor tipico de outras equipes,3.0,True
+HIST-224,3.0,valor tipico de outras equipes,3.0,True
+HIST-225,8.0,valor tipico de outras equipes,3.0,True
+HIST-226,5.0,valor tipico de outras equipes,3.0,True
+HIST-227,3.0,valor tipico de outras equipes,3.0,True
+HIST-228,3.0,valor tipico de outras equipes,3.0,True
+HIST-229,8.0,valor tipico de outras equipes,3.0,True
+HIST-230,5.0,valor tipico de outras equipes,3.0,True
+HIST-231,3.0,valor tipico de outras equipes,3.0,True
+HIST-232,8.0,valor tipico de outras equipes,3.0,True
+HIST-233,5.0,valor tipico de outras equipes,3.0,True
+HIST-234,5.0,valor tipico de outras equipes,3.0,True
+HIST-235,3.0,valor tipico de outras equipes,3.0,True
+HIST-236,5.0,valor tipico de outras equipes,3.0,True
+HIST-237,8.0,valor tipico de outras equipes,3.0,True
+HIST-238,5.0,valor tipico de outras equipes,3.0,True
+HIST-239,5.0,valor tipico de outras equipes,3.0,True
+HIST-240,3.0,valor tipico de outras equipes,3.0,True
+HIST-241,8.0,valor tipico de outras equipes,3.0,True
+HIST-242,5.0,valor tipico de outras equipes,3.0,True
+HIST-243,13.0,valor tipico de outras equipes,3.0,True
+HIST-244,5.0,valor tipico de outras equipes,3.0,True
+HIST-245,5.0,valor tipico de outras equipes,3.0,True
+HIST-246,3.0,valor tipico de outras equipes,3.0,True
+HIST-247,5.0,valor tipico de outras equipes,3.0,True
+HIST-248,8.0,valor tipico de outras equipes,3.0,True
+HIST-249,3.0,valor tipico de outras equipes,3.0,True
+HIST-250,20.0,valor tipico de outras equipes,3.0,True
+HIST-201,8.0,mediana da equipe,5.0,True
+HIST-202,13.0,mediana da equipe,5.0,True
+HIST-203,5.0,mediana da equipe,5.0,True
+HIST-204,3.0,mediana da equipe,5.0,True
+HIST-205,5.0,mediana da equipe,5.0,True
+HIST-206,3.0,mediana da equipe,5.0,True
+HIST-207,2.0,mediana da equipe,5.0,True
+HIST-208,5.0,mediana da equipe,5.0,True
+HIST-209,5.0,mediana da equipe,5.0,True
+HIST-210,3.0,mediana da equipe,5.0,True
+HIST-211,8.0,mediana da equipe,5.0,True
+HIST-212,8.0,mediana da equipe,5.0,True
+HIST-213,5.0,mediana da equipe,5.0,True
+HIST-214,5.0,mediana da equipe,5.0,True
+HIST-215,3.0,mediana da equipe,5.0,True
+HIST-216,8.0,mediana da equipe,5.0,True
+HIST-217,5.0,mediana da equipe,5.0,True
+HIST-218,5.0,mediana da equipe,5.0,True
+HIST-219,3.0,mediana da equipe,5.0,True
+HIST-220,8.0,mediana da equipe,5.0,True
+HIST-221,5.0,mediana da equipe,5.0,True
+HIST-222,5.0,mediana da equipe,5.0,True
+HIST-223,3.0,mediana da equipe,5.0,True
+HIST-224,3.0,mediana da equipe,5.0,True
+HIST-225,8.0,mediana da equipe,5.0,True
+HIST-226,5.0,mediana da equipe,5.0,True
+HIST-227,3.0,mediana da equipe,5.0,True
+HIST-228,3.0,mediana da equipe,5.0,True
+HIST-229,8.0,mediana da equipe,5.0,True
+HIST-230,5.0,mediana da equipe,5.0,True
+HIST-231,3.0,mediana da equipe,5.0,True
+HIST-232,8.0,mediana da equipe,5.0,True
+HIST-233,5.0,mediana da equipe,5.0,True
+HIST-234,5.0,mediana da equipe,5.0,True
+HIST-235,3.0,mediana da equipe,5.0,True
+HIST-236,5.0,mediana da equipe,5.0,True
+HIST-237,8.0,mediana da equipe,5.0,True
+HIST-238,5.0,mediana da equipe,5.0,True
+HIST-239,5.0,mediana da equipe,5.0,True
+HIST-240,3.0,mediana da equipe,5.0,True
+HIST-241,8.0,mediana da equipe,5.0,True
+HIST-242,5.0,mediana da equipe,5.0,True
+HIST-243,13.0,mediana da equipe,5.0,True
+HIST-244,5.0,mediana da equipe,5.0,True
+HIST-245,5.0,mediana da equipe,5.0,True
+HIST-246,3.0,mediana da equipe,5.0,True
+HIST-247,5.0,mediana da equipe,5.0,True
+HIST-248,8.0,mediana da equipe,5.0,True
+HIST-249,3.0,mediana da equipe,5.0,True
+HIST-250,20.0,mediana da equipe,5.0,True
+HIST-201,8.0,LLM sem referencia,8.0,True
+HIST-202,13.0,LLM sem referencia,8.0,True
+HIST-203,5.0,LLM sem referencia,3.0,True
+HIST-204,3.0,LLM sem referencia,3.0,True
+HIST-205,5.0,LLM sem referencia,5.0,True
+HIST-206,3.0,LLM sem referencia,3.0,True
+HIST-207,2.0,LLM sem referencia,3.0,True
+HIST-208,5.0,LLM sem referencia,5.0,True
+HIST-209,5.0,LLM sem referencia,5.0,True
+HIST-210,3.0,LLM sem referencia,5.0,True
+HIST-211,8.0,LLM sem referencia,5.0,True
+HIST-212,8.0,LLM sem referencia,5.0,True
+HIST-213,5.0,LLM sem referencia,5.0,True
+HIST-214,5.0,LLM sem referencia,5.0,True
+HIST-215,3.0,LLM sem referencia,3.0,True
+HIST-216,8.0,LLM sem referencia,5.0,True
+HIST-217,5.0,LLM sem referencia,5.0,True
+HIST-218,5.0,LLM sem referencia,5.0,True
+HIST-219,3.0,LLM sem referencia,3.0,True
+HIST-220,8.0,LLM sem referencia,8.0,True
+HIST-221,5.0,LLM sem referencia,5.0,True
+HIST-222,5.0,LLM sem referencia,5.0,True
+HIST-223,3.0,LLM sem referencia,3.0,True
+HIST-224,3.0,LLM sem referencia,5.0,True
+HIST-225,8.0,LLM sem referencia,5.0,True
+HIST-226,5.0,LLM sem referencia,5.0,True
+HIST-227,3.0,LLM sem referencia,3.0,True
+HIST-228,3.0,LLM sem referencia,3.0,True
+HIST-229,8.0,LLM sem referencia,5.0,True
+HIST-230,5.0,LLM sem referencia,5.0,True
+HIST-231,3.0,LLM sem referencia,5.0,True
+HIST-232,8.0,LLM sem referencia,8.0,True
+HIST-233,5.0,LLM sem referencia,5.0,True
+HIST-234,5.0,LLM sem referencia,5.0,True
+HIST-235,3.0,LLM sem referencia,3.0,True
+HIST-236,5.0,LLM sem referencia,3.0,True
+HIST-237,8.0,LLM sem referencia,8.0,True
+HIST-238,5.0,LLM sem referencia,5.0,True
+HIST-239,5.0,LLM sem referencia,5.0,True
+HIST-240,3.0,LLM sem referencia,3.0,True
+HIST-241,8.0,LLM sem referencia,8.0,True
+HIST-242,5.0,LLM sem referencia,5.0,True
+HIST-243,13.0,LLM sem referencia,8.0,True
+HIST-244,5.0,LLM sem referencia,3.0,True
+HIST-245,5.0,LLM sem referencia,5.0,True
+HIST-246,3.0,LLM sem referencia,3.0,True
+HIST-247,5.0,LLM sem referencia,3.0,True
+HIST-248,8.0,LLM sem referencia,5.0,True
+HIST-249,3.0,LLM sem referencia,3.0,True
+HIST-250,20.0,LLM sem referencia,8.0,True
+HIST-201,8.0,proprias,3.0,True
+HIST-202,13.0,proprias,8.0,True
+HIST-203,5.0,proprias,5.0,True
+HIST-204,3.0,proprias,5.0,True
+HIST-205,5.0,proprias,8.0,True
+HIST-206,3.0,proprias,8.0,True
+HIST-207,2.0,proprias,2.0,True
+HIST-208,5.0,proprias,8.0,True
+HIST-209,5.0,proprias,8.0,True
+HIST-210,3.0,proprias,2.0,True
+HIST-211,8.0,proprias,3.0,True
+HIST-212,8.0,proprias,8.0,True
+HIST-213,5.0,proprias,8.0,True
+HIST-214,5.0,proprias,5.0,True
+HIST-215,3.0,proprias,3.0,True
+HIST-216,8.0,proprias,8.0,True
+HIST-217,5.0,proprias,8.0,True
+HIST-218,5.0,proprias,5.0,True
+HIST-219,3.0,proprias,3.0,True
+HIST-220,8.0,proprias,8.0,True
+HIST-221,5.0,proprias,5.0,True
+HIST-222,5.0,proprias,2.0,True
+HIST-223,3.0,proprias,3.0,True
+HIST-224,3.0,proprias,5.0,True
+HIST-225,8.0,proprias,3.0,True
+HIST-226,5.0,proprias,5.0,True
+HIST-227,3.0,proprias,5.0,True
+HIST-228,3.0,proprias,3.0,True
+HIST-229,8.0,proprias,5.0,True
+HIST-230,5.0,proprias,5.0,True
+HIST-231,3.0,proprias,3.0,True
+HIST-232,8.0,proprias,13.0,True
+HIST-233,5.0,proprias,5.0,True
+HIST-234,5.0,proprias,5.0,True
+HIST-235,3.0,proprias,3.0,True
+HIST-236,5.0,proprias,8.0,True
+HIST-237,8.0,proprias,8.0,True
+HIST-238,5.0,proprias,5.0,True
+HIST-239,5.0,proprias,5.0,True
+HIST-240,3.0,proprias,3.0,True
+HIST-241,8.0,proprias,5.0,True
+HIST-242,5.0,proprias,5.0,True
+HIST-243,13.0,proprias,13.0,True
+HIST-244,5.0,proprias,5.0,True
+HIST-245,5.0,proprias,5.0,True
+HIST-246,3.0,proprias,2.0,True
+HIST-247,5.0,proprias,5.0,True
+HIST-248,8.0,proprias,5.0,True
+HIST-249,3.0,proprias,3.0,True
+HIST-250,20.0,proprias,13.0,True
+HIST-201,8.0,"padrao (en, primeira) voto flashlite",8.0,True
+HIST-202,13.0,"padrao (en, primeira) voto flashlite",8.0,True
+HIST-203,5.0,"padrao (en, primeira) voto flashlite",3.0,True
+HIST-204,3.0,"padrao (en, primeira) voto flashlite",3.0,True
+HIST-205,5.0,"padrao (en, primeira) voto flashlite",5.0,True
+HIST-206,3.0,"padrao (en, primeira) voto flashlite",3.0,True
+HIST-207,2.0,"padrao (en, primeira) voto flashlite",1.0,True
+HIST-208,5.0,"padrao (en, primeira) voto flashlite",5.0,True
+HIST-209,5.0,"padrao (en, primeira) voto flashlite",3.0,True
+HIST-210,3.0,"padrao (en, primeira) voto flashlite",2.0,True
+HIST-211,8.0,"padrao (en, primeira) voto flashlite",5.0,True
+HIST-212,8.0,"padrao (en, primeira) voto flashlite",5.0,True
+HIST-213,5.0,"padrao (en, primeira) voto flashlite",3.0,True
+HIST-214,5.0,"padrao (en, primeira) voto flashlite",5.0,True
+HIST-215,3.0,"padrao (en, primeira) voto flashlite",2.0,True
+HIST-216,8.0,"padrao (en, primeira) voto flashlite",5.0,True
+HIST-217,5.0,"padrao (en, primeira) voto flashlite",2.0,True
+HIST-218,5.0,"padrao (en, primeira) voto flashlite",5.0,True
+HIST-219,3.0,"padrao (en, primeira) voto flashlite",2.0,True
+HIST-220,8.0,"padrao (en, primeira) voto flashlite",8.0,True
+HIST-221,5.0,"padrao (en, primeira) voto flashlite",5.0,True
+HIST-222,5.0,"padrao (en, primeira) voto flashlite",2.0,True
+HIST-223,3.0,"padrao (en, primeira) voto flashlite",3.0,True
+HIST-224,3.0,"padrao (en, primeira) voto flashlite",2.0,True
+HIST-225,8.0,"padrao (en, primeira) voto flashlite",5.0,True
+HIST-226,5.0,"padrao (en, primeira) voto flashlite",5.0,True
+HIST-227,3.0,"padrao (en, primeira) voto flashlite",3.0,True
+HIST-228,3.0,"padrao (en, primeira) voto flashlite",3.0,True
+HIST-229,8.0,"padrao (en, primeira) voto flashlite",5.0,True
+HIST-230,5.0,"padrao (en, primeira) voto flashlite",3.0,True
+HIST-231,3.0,"padrao (en, primeira) voto flashlite",3.0,True
+HIST-232,8.0,"padrao (en, primeira) voto flashlite",8.0,True
+HIST-233,5.0,"padrao (en, primeira) voto flashlite",3.0,True
+HIST-234,5.0,"padrao (en, primeira) voto flashlite",8.0,True
+HIST-235,3.0,"padrao (en, primeira) voto flashlite",3.0,True
+HIST-236,5.0,"padrao (en, primeira) voto flashlite",5.0,True
+HIST-237,8.0,"padrao (en, primeira) voto flashlite",8.0,True
+HIST-238,5.0,"padrao (en, primeira) voto flashlite",5.0,True
+HIST-239,5.0,"padrao (en, primeira) voto flashlite",5.0,True
+HIST-240,3.0,"padrao (en, primeira) voto flashlite",3.0,True
+HIST-241,8.0,"padrao (en, primeira) voto flashlite",8.0,True
+HIST-242,5.0,"padrao (en, primeira) voto flashlite",5.0,True
+HIST-243,13.0,"padrao (en, primeira) voto flashlite",13.0,True
+HIST-244,5.0,"padrao (en, primeira) voto flashlite",2.0,True
+HIST-245,5.0,"padrao (en, primeira) voto flashlite",5.0,True
+HIST-246,3.0,"padrao (en, primeira) voto flashlite",3.0,True
+HIST-247,5.0,"padrao (en, primeira) voto flashlite",3.0,True
+HIST-248,8.0,"padrao (en, primeira) voto flashlite",5.0,True
+HIST-249,3.0,"padrao (en, primeira) voto flashlite",5.0,True
+HIST-250,20.0,"padrao (en, primeira) voto flashlite",13.0,True
+HIST-201,8.0,"padrao (en, todas) voto flashlite",8.0,True
+HIST-202,13.0,"padrao (en, todas) voto flashlite",8.0,True
+HIST-203,5.0,"padrao (en, todas) voto flashlite",3.0,True
+HIST-204,3.0,"padrao (en, todas) voto flashlite",3.0,True
+HIST-205,5.0,"padrao (en, todas) voto flashlite",5.0,True
+HIST-206,3.0,"padrao (en, todas) voto flashlite",3.0,True
+HIST-207,2.0,"padrao (en, todas) voto flashlite",1.0,True
+HIST-208,5.0,"padrao (en, todas) voto flashlite",5.0,True
+HIST-209,5.0,"padrao (en, todas) voto flashlite",5.0,True
+HIST-210,3.0,"padrao (en, todas) voto flashlite",1.0,True
+HIST-211,8.0,"padrao (en, todas) voto flashlite",5.0,True
+HIST-212,8.0,"padrao (en, todas) voto flashlite",5.0,True
+HIST-213,5.0,"padrao (en, todas) voto flashlite",5.0,True
+HIST-214,5.0,"padrao (en, todas) voto flashlite",5.0,True
+HIST-215,3.0,"padrao (en, todas) voto flashlite",1.0,True
+HIST-216,8.0,"padrao (en, todas) voto flashlite",5.0,True
+HIST-217,5.0,"padrao (en, todas) voto flashlite",5.0,True
+HIST-218,5.0,"padrao (en, todas) voto flashlite",5.0,True
+HIST-219,3.0,"padrao (en, todas) voto flashlite",1.0,True
+HIST-220,8.0,"padrao (en, todas) voto flashlite",8.0,True
+HIST-221,5.0,"padrao (en, todas) voto flashlite",3.0,True
+HIST-222,5.0,"padrao (en, todas) voto flashlite",3.0,True
+HIST-223,3.0,"padrao (en, todas) voto flashlite",5.0,True
+HIST-224,3.0,"padrao (en, todas) voto flashlite",3.0,True
+HIST-225,8.0,"padrao (en, todas) voto flashlite",5.0,True
+HIST-226,5.0,"padrao (en, todas) voto flashlite",5.0,True
+HIST-227,3.0,"padrao (en, todas) voto flashlite",5.0,True
+HIST-228,3.0,"padrao (en, todas) voto flashlite",5.0,True
+HIST-229,8.0,"padrao (en, todas) voto flashlite",5.0,True
+HIST-230,5.0,"padrao (en, todas) voto flashlite",5.0,True
+HIST-231,3.0,"padrao (en, todas) voto flashlite",5.0,True
+HIST-232,8.0,"padrao (en, todas) voto flashlite",8.0,True
+HIST-233,5.0,"padrao (en, todas) voto flashlite",5.0,True
+HIST-234,5.0,"padrao (en, todas) voto flashlite",8.0,True
+HIST-235,3.0,"padrao (en, todas) voto flashlite",5.0,True
+HIST-236,5.0,"padrao (en, todas) voto flashlite",5.0,True
+HIST-237,8.0,"padrao (en, todas) voto flashlite",8.0,True
+HIST-238,5.0,"padrao (en, todas) voto flashlite",5.0,True
+HIST-239,5.0,"padrao (en, todas) voto flashlite",5.0,True
+HIST-240,3.0,"padrao (en, todas) voto flashlite",5.0,True
+HIST-241,8.0,"padrao (en, todas) voto flashlite",8.0,True
+HIST-242,5.0,"padrao (en, todas) voto flashlite",5.0,True
+HIST-243,13.0,"padrao (en, todas) voto flashlite",13.0,True
+HIST-244,5.0,"padrao (en, todas) voto flashlite",2.0,True
+HIST-245,5.0,"padrao (en, todas) voto flashlite",5.0,True
+HIST-246,3.0,"padrao (en, todas) voto flashlite",1.0,True
+HIST-247,5.0,"padrao (en, todas) voto flashlite",3.0,True
+HIST-248,8.0,"padrao (en, todas) voto flashlite",5.0,True
+HIST-249,3.0,"padrao (en, todas) voto flashlite",1.0,True
+HIST-250,20.0,"padrao (en, todas) voto flashlite",13.0,True
+HIST-201,8.0,"padrao (pt, primeira) voto flashlite",8.0,True
+HIST-202,13.0,"padrao (pt, primeira) voto flashlite",13.0,True
+HIST-203,5.0,"padrao (pt, primeira) voto flashlite",3.0,True
+HIST-204,3.0,"padrao (pt, primeira) voto flashlite",3.0,True
+HIST-205,5.0,"padrao (pt, primeira) voto flashlite",8.0,True
+HIST-206,3.0,"padrao (pt, primeira) voto flashlite",5.0,True
+HIST-207,2.0,"padrao (pt, primeira) voto flashlite",1.0,True
+HIST-208,5.0,"padrao (pt, primeira) voto flashlite",8.0,True
+HIST-209,5.0,"padrao (pt, primeira) voto flashlite",5.0,True
+HIST-210,3.0,"padrao (pt, primeira) voto flashlite",1.0,True
+HIST-211,8.0,"padrao (pt, primeira) voto flashlite",8.0,True
+HIST-212,8.0,"padrao (pt, primeira) voto flashlite",8.0,True
+HIST-213,5.0,"padrao (pt, primeira) voto flashlite",5.0,True
+HIST-214,5.0,"padrao (pt, primeira) voto flashlite",5.0,True
+HIST-215,3.0,"padrao (pt, primeira) voto flashlite",1.0,True
+HIST-216,8.0,"padrao (pt, primeira) voto flashlite",8.0,True
+HIST-217,5.0,"padrao (pt, primeira) voto flashlite",5.0,True
+HIST-218,5.0,"padrao (pt, primeira) voto flashlite",8.0,True
+HIST-219,3.0,"padrao (pt, primeira) voto flashlite",1.0,True
+HIST-220,8.0,"padrao (pt, primeira) voto flashlite",8.0,True
+HIST-221,5.0,"padrao (pt, primeira) voto flashlite",5.0,True
+HIST-222,5.0,"padrao (pt, primeira) voto flashlite",2.0,True
+HIST-223,3.0,"padrao (pt, primeira) voto flashlite",1.0,True
+HIST-224,3.0,"padrao (pt, primeira) voto flashlite",2.0,True
+HIST-225,8.0,"padrao (pt, primeira) voto flashlite",5.0,True
+HIST-226,5.0,"padrao (pt, primeira) voto flashlite",3.0,True
+HIST-227,3.0,"padrao (pt, primeira) voto flashlite",3.0,True
+HIST-228,3.0,"padrao (pt, primeira) voto flashlite",1.0,True
+HIST-229,8.0,"padrao (pt, primeira) voto flashlite",3.0,True
+HIST-230,5.0,"padrao (pt, primeira) voto flashlite",3.0,True
+HIST-231,3.0,"padrao (pt, primeira) voto flashlite",1.0,True
+HIST-232,8.0,"padrao (pt, primeira) voto flashlite",8.0,True
+HIST-233,5.0,"padrao (pt, primeira) voto flashlite",3.0,True
+HIST-234,5.0,"padrao (pt, primeira) voto flashlite",5.0,True
+HIST-235,3.0,"padrao (pt, primeira) voto flashlite",1.0,True
+HIST-236,5.0,"padrao (pt, primeira) voto flashlite",5.0,True
+HIST-237,8.0,"padrao (pt, primeira) voto flashlite",8.0,True
+HIST-238,5.0,"padrao (pt, primeira) voto flashlite",5.0,True
+HIST-239,5.0,"padrao (pt, primeira) voto flashlite",5.0,True
+HIST-240,3.0,"padrao (pt, primeira) voto flashlite",1.0,True
+HIST-241,8.0,"padrao (pt, primeira) voto flashlite",5.0,True
+HIST-242,5.0,"padrao (pt, primeira) voto flashlite",5.0,True
+HIST-243,13.0,"padrao (pt, primeira) voto flashlite",8.0,True
+HIST-244,5.0,"padrao (pt, primeira) voto flashlite",2.0,True
+HIST-245,5.0,"padrao (pt, primeira) voto flashlite",3.0,True
+HIST-246,3.0,"padrao (pt, primeira) voto flashlite",2.0,True
+HIST-247,5.0,"padrao (pt, primeira) voto flashlite",5.0,True
+HIST-248,8.0,"padrao (pt, primeira) voto flashlite",5.0,True
+HIST-249,3.0,"padrao (pt, primeira) voto flashlite",2.0,True
+HIST-250,20.0,"padrao (pt, primeira) voto flashlite",13.0,True
+HIST-201,8.0,"padrao (pt, todas) voto flashlite",5.0,True
+HIST-202,13.0,"padrao (pt, todas) voto flashlite",8.0,True
+HIST-203,5.0,"padrao (pt, todas) voto flashlite",3.0,True
+HIST-204,3.0,"padrao (pt, todas) voto flashlite",3.0,True
+HIST-205,5.0,"padrao (pt, todas) voto flashlite",5.0,True
+HIST-206,3.0,"padrao (pt, todas) voto flashlite",3.0,True
+HIST-207,2.0,"padrao (pt, todas) voto flashlite",1.0,True
+HIST-208,5.0,"padrao (pt, todas) voto flashlite",5.0,True
+HIST-209,5.0,"padrao (pt, todas) voto flashlite",3.0,True
+HIST-210,3.0,"padrao (pt, todas) voto flashlite",1.0,True
+HIST-211,8.0,"padrao (pt, todas) voto flashlite",5.0,True
+HIST-212,8.0,"padrao (pt, todas) voto flashlite",5.0,True
+HIST-213,5.0,"padrao (pt, todas) voto flashlite",5.0,True
+HIST-214,5.0,"padrao (pt, todas) voto flashlite",5.0,True
+HIST-215,3.0,"padrao (pt, todas) voto flashlite",2.0,True
+HIST-216,8.0,"padrao (pt, todas) voto flashlite",5.0,True
+HIST-217,5.0,"padrao (pt, todas) voto flashlite",3.0,True
+HIST-218,5.0,"padrao (pt, todas) voto flashlite",8.0,True
+HIST-219,3.0,"padrao (pt, todas) voto flashlite",2.0,True
+HIST-220,8.0,"padrao (pt, todas) voto flashlite",8.0,True
+HIST-221,5.0,"padrao (pt, todas) voto flashlite",5.0,True
+HIST-222,5.0,"padrao (pt, todas) voto flashlite",2.0,True
+HIST-223,3.0,"padrao (pt, todas) voto flashlite",1.0,True
+HIST-224,3.0,"padrao (pt, todas) voto flashlite",5.0,True
+HIST-225,8.0,"padrao (pt, todas) voto flashlite",8.0,True
+HIST-226,5.0,"padrao (pt, todas) voto flashlite",5.0,True
+HIST-227,3.0,"padrao (pt, todas) voto flashlite",3.0,True
+HIST-228,3.0,"padrao (pt, todas) voto flashlite",1.0,True
+HIST-229,8.0,"padrao (pt, todas) voto flashlite",5.0,True
+HIST-230,5.0,"padrao (pt, todas) voto flashlite",8.0,True
+HIST-231,3.0,"padrao (pt, todas) voto flashlite",1.0,True
+HIST-232,8.0,"padrao (pt, todas) voto flashlite",13.0,True
+HIST-233,5.0,"padrao (pt, todas) voto flashlite",8.0,True
+HIST-234,5.0,"padrao (pt, todas) voto flashlite",8.0,True
+HIST-235,3.0,"padrao (pt, todas) voto flashlite",1.0,True
+HIST-236,5.0,"padrao (pt, todas) voto flashlite",8.0,True
+HIST-237,8.0,"padrao (pt, todas) voto flashlite",8.0,True
+HIST-238,5.0,"padrao (pt, todas) voto flashlite",5.0,True
+HIST-239,5.0,"padrao (pt, todas) voto flashlite",5.0,True
+HIST-240,3.0,"padrao (pt, todas) voto flashlite",1.0,True
+HIST-241,8.0,"padrao (pt, todas) voto flashlite",8.0,True
+HIST-242,5.0,"padrao (pt, todas) voto flashlite",8.0,True
+HIST-243,13.0,"padrao (pt, todas) voto flashlite",8.0,True
+HIST-244,5.0,"padrao (pt, todas) voto flashlite",2.0,True
+HIST-245,5.0,"padrao (pt, todas) voto flashlite",3.0,True
+HIST-246,3.0,"padrao (pt, todas) voto flashlite",1.0,True
+HIST-247,5.0,"padrao (pt, todas) voto flashlite",3.0,True
+HIST-248,8.0,"padrao (pt, todas) voto flashlite",5.0,True
+HIST-249,3.0,"padrao (pt, todas) voto flashlite",1.0,True
+HIST-250,20.0,"padrao (pt, todas) voto flashlite",13.0,True
+HIST-201,8.0,"padrao (en, primeira) voto hydrogen",13.0,True
+HIST-202,13.0,"padrao (en, primeira) voto hydrogen",13.0,True
+HIST-203,5.0,"padrao (en, primeira) voto hydrogen",3.0,True
+HIST-204,3.0,"padrao (en, primeira) voto hydrogen",3.0,True
+HIST-205,5.0,"padrao (en, primeira) voto hydrogen",5.0,True
+HIST-206,3.0,"padrao (en, primeira) voto hydrogen",3.0,True
+HIST-207,2.0,"padrao (en, primeira) voto hydrogen",1.0,True
+HIST-208,5.0,"padrao (en, primeira) voto hydrogen",5.0,True
+HIST-209,5.0,"padrao (en, primeira) voto hydrogen",5.0,True
+HIST-210,3.0,"padrao (en, primeira) voto hydrogen",1.0,True
+HIST-211,8.0,"padrao (en, primeira) voto hydrogen",8.0,True
+HIST-212,8.0,"padrao (en, primeira) voto hydrogen",5.0,True
+HIST-213,5.0,"padrao (en, primeira) voto hydrogen",5.0,True
+HIST-214,5.0,"padrao (en, primeira) voto hydrogen",5.0,True
+HIST-215,3.0,"padrao (en, primeira) voto hydrogen",2.0,True
+HIST-216,8.0,"padrao (en, primeira) voto hydrogen",5.0,True
+HIST-217,5.0,"padrao (en, primeira) voto hydrogen",5.0,True
+HIST-218,5.0,"padrao (en, primeira) voto hydrogen",5.0,True
+HIST-219,3.0,"padrao (en, primeira) voto hydrogen",2.0,True
+HIST-220,8.0,"padrao (en, primeira) voto hydrogen",8.0,True
+HIST-221,5.0,"padrao (en, primeira) voto hydrogen",5.0,True
+HIST-222,5.0,"padrao (en, primeira) voto hydrogen",2.0,True
+HIST-223,3.0,"padrao (en, primeira) voto hydrogen",1.0,True
+HIST-224,3.0,"padrao (en, primeira) voto hydrogen",3.0,True
+HIST-225,8.0,"padrao (en, primeira) voto hydrogen",5.0,True
+HIST-226,5.0,"padrao (en, primeira) voto hydrogen",5.0,True
+HIST-227,3.0,"padrao (en, primeira) voto hydrogen",3.0,True
+HIST-228,3.0,"padrao (en, primeira) voto hydrogen",1.0,True
+HIST-229,8.0,"padrao (en, primeira) voto hydrogen",3.0,True
+HIST-230,5.0,"padrao (en, primeira) voto hydrogen",3.0,True
+HIST-231,3.0,"padrao (en, primeira) voto hydrogen",1.0,True
+HIST-232,8.0,"padrao (en, primeira) voto hydrogen",8.0,True
+HIST-233,5.0,"padrao (en, primeira) voto hydrogen",3.0,True
+HIST-234,5.0,"padrao (en, primeira) voto hydrogen",8.0,True
+HIST-235,3.0,"padrao (en, primeira) voto hydrogen",1.0,True
+HIST-236,5.0,"padrao (en, primeira) voto hydrogen",3.0,True
+HIST-237,8.0,"padrao (en, primeira) voto hydrogen",8.0,True
+HIST-238,5.0,"padrao (en, primeira) voto hydrogen",5.0,True
+HIST-239,5.0,"padrao (en, primeira) voto hydrogen",5.0,True
+HIST-240,3.0,"padrao (en, primeira) voto hydrogen",1.0,True
+HIST-241,8.0,"padrao (en, primeira) voto hydrogen",8.0,True
+HIST-242,5.0,"padrao (en, primeira) voto hydrogen",8.0,True
+HIST-243,13.0,"padrao (en, primeira) voto hydrogen",13.0,True
+HIST-244,5.0,"padrao (en, primeira) voto hydrogen",5.0,True
+HIST-245,5.0,"padrao (en, primeira) voto hydrogen",5.0,True
+HIST-246,3.0,"padrao (en, primeira) voto hydrogen",1.0,True
+HIST-247,5.0,"padrao (en, primeira) voto hydrogen",3.0,True
+HIST-248,8.0,"padrao (en, primeira) voto hydrogen",5.0,True
+HIST-249,3.0,"padrao (en, primeira) voto hydrogen",1.0,True
+HIST-250,20.0,"padrao (en, primeira) voto hydrogen",13.0,True
+HIST-201,8.0,"padrao (en, todas) voto hydrogen",5.0,True
+HIST-202,13.0,"padrao (en, todas) voto hydrogen",8.0,True
+HIST-203,5.0,"padrao (en, todas) voto hydrogen",2.0,True
+HIST-204,3.0,"padrao (en, todas) voto hydrogen",2.0,True
+HIST-205,5.0,"padrao (en, todas) voto hydrogen",8.0,True
+HIST-206,3.0,"padrao (en, todas) voto hydrogen",3.0,True
+HIST-207,2.0,"padrao (en, todas) voto hydrogen",1.0,True
+HIST-208,5.0,"padrao (en, todas) voto hydrogen",3.0,True
+HIST-209,5.0,"padrao (en, todas) voto hydrogen",3.0,True
+HIST-210,3.0,"padrao (en, todas) voto hydrogen",1.0,True
+HIST-211,8.0,"padrao (en, todas) voto hydrogen",5.0,True
+HIST-212,8.0,"padrao (en, todas) voto hydrogen",3.0,True
+HIST-213,5.0,"padrao (en, todas) voto hydrogen",3.0,True
+HIST-214,5.0,"padrao (en, todas) voto hydrogen",5.0,True
+HIST-215,3.0,"padrao (en, todas) voto hydrogen",1.0,True
+HIST-216,8.0,"padrao (en, todas) voto hydrogen",3.0,True
+HIST-217,5.0,"padrao (en, todas) voto hydrogen",3.0,True
+HIST-218,5.0,"padrao (en, todas) voto hydrogen",3.0,True
+HIST-219,3.0,"padrao (en, todas) voto hydrogen",1.0,True
+HIST-220,8.0,"padrao (en, todas) voto hydrogen",8.0,True
+HIST-221,5.0,"padrao (en, todas) voto hydrogen",5.0,True
+HIST-222,5.0,"padrao (en, todas) voto hydrogen",3.0,True
+HIST-223,3.0,"padrao (en, todas) voto hydrogen",2.0,True
+HIST-224,3.0,"padrao (en, todas) voto hydrogen",3.0,True
+HIST-225,8.0,"padrao (en, todas) voto hydrogen",5.0,True
+HIST-226,5.0,"padrao (en, todas) voto hydrogen",5.0,True
+HIST-227,3.0,"padrao (en, todas) voto hydrogen",3.0,True
+HIST-228,3.0,"padrao (en, todas) voto hydrogen",2.0,True
+HIST-229,8.0,"padrao (en, todas) voto hydrogen",5.0,True
+HIST-230,5.0,"padrao (en, todas) voto hydrogen",5.0,True
+HIST-231,3.0,"padrao (en, todas) voto hydrogen",2.0,True
+HIST-232,8.0,"padrao (en, todas) voto hydrogen",8.0,True
+HIST-233,5.0,"padrao (en, todas) voto hydrogen",5.0,True
+HIST-234,5.0,"padrao (en, todas) voto hydrogen",3.0,True
+HIST-235,3.0,"padrao (en, todas) voto hydrogen",2.0,True
+HIST-236,5.0,"padrao (en, todas) voto hydrogen",5.0,True
+HIST-237,8.0,"padrao (en, todas) voto hydrogen",8.0,True
+HIST-238,5.0,"padrao (en, todas) voto hydrogen",5.0,True
+HIST-239,5.0,"padrao (en, todas) voto hydrogen",5.0,True
+HIST-240,3.0,"padrao (en, todas) voto hydrogen",2.0,True
+HIST-241,8.0,"padrao (en, todas) voto hydrogen",8.0,True
+HIST-242,5.0,"padrao (en, todas) voto hydrogen",3.0,True
+HIST-243,13.0,"padrao (en, todas) voto hydrogen",8.0,True
+HIST-244,5.0,"padrao (en, todas) voto hydrogen",3.0,True
+HIST-245,5.0,"padrao (en, todas) voto hydrogen",5.0,True
+HIST-246,3.0,"padrao (en, todas) voto hydrogen",2.0,True
+HIST-247,5.0,"padrao (en, todas) voto hydrogen",3.0,True
+HIST-248,8.0,"padrao (en, todas) voto hydrogen",5.0,True
+HIST-249,3.0,"padrao (en, todas) voto hydrogen",2.0,True
+HIST-250,20.0,"padrao (en, todas) voto hydrogen",13.0,True
+HIST-201,8.0,"padrao (pt, primeira) voto hydrogen",13.0,True
+HIST-202,13.0,"padrao (pt, primeira) voto hydrogen",13.0,True
+HIST-203,5.0,"padrao (pt, primeira) voto hydrogen",3.0,True
+HIST-204,3.0,"padrao (pt, primeira) voto hydrogen",3.0,True
+HIST-205,5.0,"padrao (pt, primeira) voto hydrogen",5.0,True
+HIST-206,3.0,"padrao (pt, primeira) voto hydrogen",3.0,True
+HIST-207,2.0,"padrao (pt, primeira) voto hydrogen",1.0,True
+HIST-208,5.0,"padrao (pt, primeira) voto hydrogen",5.0,True
+HIST-209,5.0,"padrao (pt, primeira) voto hydrogen",5.0,True
+HIST-210,3.0,"padrao (pt, primeira) voto hydrogen",1.0,True
+HIST-211,8.0,"padrao (pt, primeira) voto hydrogen",8.0,True
+HIST-212,8.0,"padrao (pt, primeira) voto hydrogen",5.0,True
+HIST-213,5.0,"padrao (pt, primeira) voto hydrogen",5.0,True
+HIST-214,5.0,"padrao (pt, primeira) voto hydrogen",5.0,True
+HIST-215,3.0,"padrao (pt, primeira) voto hydrogen",1.0,True
+HIST-216,8.0,"padrao (pt, primeira) voto hydrogen",5.0,True
+HIST-217,5.0,"padrao (pt, primeira) voto hydrogen",5.0,True
+HIST-218,5.0,"padrao (pt, primeira) voto hydrogen",3.0,True
+HIST-219,3.0,"padrao (pt, primeira) voto hydrogen",1.0,True
+HIST-220,8.0,"padrao (pt, primeira) voto hydrogen",8.0,True
+HIST-221,5.0,"padrao (pt, primeira) voto hydrogen",5.0,True
+HIST-222,5.0,"padrao (pt, primeira) voto hydrogen",3.0,True
+HIST-223,3.0,"padrao (pt, primeira) voto hydrogen",2.0,True
+HIST-224,3.0,"padrao (pt, primeira) voto hydrogen",3.0,True
+HIST-225,8.0,"padrao (pt, primeira) voto hydrogen",5.0,True
+HIST-226,5.0,"padrao (pt, primeira) voto hydrogen",5.0,True
+HIST-227,3.0,"padrao (pt, primeira) voto hydrogen",3.0,True
+HIST-228,3.0,"padrao (pt, primeira) voto hydrogen",2.0,True
+HIST-229,8.0,"padrao (pt, primeira) voto hydrogen",3.0,True
+HIST-230,5.0,"padrao (pt, primeira) voto hydrogen",5.0,True
+HIST-231,3.0,"padrao (pt, primeira) voto hydrogen",2.0,True
+HIST-232,8.0,"padrao (pt, primeira) voto hydrogen",8.0,True
+HIST-233,5.0,"padrao (pt, primeira) voto hydrogen",5.0,True
+HIST-234,5.0,"padrao (pt, primeira) voto hydrogen",5.0,True
+HIST-235,3.0,"padrao (pt, primeira) voto hydrogen",2.0,True
+HIST-236,5.0,"padrao (pt, primeira) voto hydrogen",3.0,True
+HIST-237,8.0,"padrao (pt, primeira) voto hydrogen",5.0,True
+HIST-238,5.0,"padrao (pt, primeira) voto hydrogen",5.0,True
+HIST-239,5.0,"padrao (pt, primeira) voto hydrogen",5.0,True
+HIST-240,3.0,"padrao (pt, primeira) voto hydrogen",2.0,True
+HIST-241,8.0,"padrao (pt, primeira) voto hydrogen",8.0,True
+HIST-242,5.0,"padrao (pt, primeira) voto hydrogen",5.0,True
+HIST-243,13.0,"padrao (pt, primeira) voto hydrogen",13.0,True
+HIST-244,5.0,"padrao (pt, primeira) voto hydrogen",3.0,True
+HIST-245,5.0,"padrao (pt, primeira) voto hydrogen",5.0,True
+HIST-246,3.0,"padrao (pt, primeira) voto hydrogen",2.0,True
+HIST-247,5.0,"padrao (pt, primeira) voto hydrogen",5.0,True
+HIST-248,8.0,"padrao (pt, primeira) voto hydrogen",8.0,True
+HIST-249,3.0,"padrao (pt, primeira) voto hydrogen",2.0,True
+HIST-250,20.0,"padrao (pt, primeira) voto hydrogen",13.0,True
+HIST-201,8.0,"padrao (pt, todas) voto hydrogen",8.0,True
+HIST-202,13.0,"padrao (pt, todas) voto hydrogen",8.0,True
+HIST-203,5.0,"padrao (pt, todas) voto hydrogen",3.0,True
+HIST-204,3.0,"padrao (pt, todas) voto hydrogen",3.0,True
+HIST-205,5.0,"padrao (pt, todas) voto hydrogen",5.0,True
+HIST-206,3.0,"padrao (pt, todas) voto hydrogen",3.0,True
+HIST-207,2.0,"padrao (pt, todas) voto hydrogen",1.0,True
+HIST-208,5.0,"padrao (pt, todas) voto hydrogen",5.0,True
+HIST-209,5.0,"padrao (pt, todas) voto hydrogen",5.0,True
+HIST-210,3.0,"padrao (pt, todas) voto hydrogen",1.0,True
+HIST-211,8.0,"padrao (pt, todas) voto hydrogen",5.0,True
+HIST-212,8.0,"padrao (pt, todas) voto hydrogen",5.0,True
+HIST-213,5.0,"padrao (pt, todas) voto hydrogen",3.0,True
+HIST-214,5.0,"padrao (pt, todas) voto hydrogen",5.0,True
+HIST-215,3.0,"padrao (pt, todas) voto hydrogen",1.0,True
+HIST-216,8.0,"padrao (pt, todas) voto hydrogen",5.0,True
+HIST-217,5.0,"padrao (pt, todas) voto hydrogen",3.0,True
+HIST-218,5.0,"padrao (pt, todas) voto hydrogen",5.0,True
+HIST-219,3.0,"padrao (pt, todas) voto hydrogen",1.0,True
+HIST-220,8.0,"padrao (pt, todas) voto hydrogen",8.0,True
+HIST-221,5.0,"padrao (pt, todas) voto hydrogen",5.0,True
+HIST-222,5.0,"padrao (pt, todas) voto hydrogen",3.0,True
+HIST-223,3.0,"padrao (pt, todas) voto hydrogen",1.0,True
+HIST-224,3.0,"padrao (pt, todas) voto hydrogen",3.0,True
+HIST-225,8.0,"padrao (pt, todas) voto hydrogen",5.0,True
+HIST-226,5.0,"padrao (pt, todas) voto hydrogen",5.0,True
+HIST-227,3.0,"padrao (pt, todas) voto hydrogen",3.0,True
+HIST-228,3.0,"padrao (pt, todas) voto hydrogen",1.0,True
+HIST-229,8.0,"padrao (pt, todas) voto hydrogen",3.0,True
+HIST-230,5.0,"padrao (pt, todas) voto hydrogen",5.0,True
+HIST-231,3.0,"padrao (pt, todas) voto hydrogen",1.0,True
+HIST-232,8.0,"padrao (pt, todas) voto hydrogen",8.0,True
+HIST-233,5.0,"padrao (pt, todas) voto hydrogen",5.0,True
+HIST-234,5.0,"padrao (pt, todas) voto hydrogen",8.0,True
+HIST-235,3.0,"padrao (pt, todas) voto hydrogen",1.0,True
+HIST-236,5.0,"padrao (pt, todas) voto hydrogen",8.0,True
+HIST-237,8.0,"padrao (pt, todas) voto hydrogen",5.0,True
+HIST-238,5.0,"padrao (pt, todas) voto hydrogen",5.0,True
+HIST-239,5.0,"padrao (pt, todas) voto hydrogen",5.0,True
+HIST-240,3.0,"padrao (pt, todas) voto hydrogen",1.0,True
+HIST-241,8.0,"padrao (pt, todas) voto hydrogen",8.0,True
+HIST-242,5.0,"padrao (pt, todas) voto hydrogen",5.0,True
+HIST-243,13.0,"padrao (pt, todas) voto hydrogen",8.0,True
+HIST-244,5.0,"padrao (pt, todas) voto hydrogen",3.0,True
+HIST-245,5.0,"padrao (pt, todas) voto hydrogen",5.0,True
+HIST-246,3.0,"padrao (pt, todas) voto hydrogen",3.0,True
+HIST-247,5.0,"padrao (pt, todas) voto hydrogen",5.0,True
+HIST-248,8.0,"padrao (pt, todas) voto hydrogen",5.0,True
+HIST-249,3.0,"padrao (pt, todas) voto hydrogen",3.0,True
+HIST-250,20.0,"padrao (pt, todas) voto hydrogen",13.0,True

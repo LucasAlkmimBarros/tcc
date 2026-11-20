@@ -1,0 +1,13 @@
+condicao,cartoes_de_referencia,MAE,dentro_1,cartao_exato,validas,erra_menos_que_proprias_em,erra_mais_que_proprias_em,p_wilcoxon_contra_proprias,MAE_primeira,p_wilcoxon_todas_contra_primeira
+valor tipico de outras equipes,,2.7,30.0,28.000000000000004,1.0,13,25,0.0008212449093959324,,
+mediana da equipe,,1.9,42.0,42.0,1.0,12,18,0.5781456774522102,,
+LLM sem referencia,,1.1,68.0,66.0,1.0,16,10,0.16228253059365272,,
+proprias,2 3 5 8 13,1.5,60.0,56.00000000000001,1.0,0,0,,,
+"padrao (en, primeira) voto flashlite",1 2 3 5 8 13,1.22,62.0,52.0,1.0,15,12,0.3958815428540422,,
+"padrao (en, todas) voto flashlite",1 2 3 5 8 13,1.34,50.0,48.0,1.0,15,18,0.45659171761972306,1.22,0.4833440618685446
+"padrao (pt, primeira) voto flashlite",1 2 3 5 8 13,1.46,50.0,42.0,1.0,13,19,0.7608836673709221,,
+"padrao (pt, todas) voto flashlite",1 2 3 5 8 13,1.9,36.0,30.0,1.0,12,23,0.2017852679476233,1.46,0.12272979188647426
+"padrao (en, primeira) voto hydrogen",1 2 3 5 8 13,1.34,54.0,48.0,1.0,15,20,0.5337414259475678,,
+"padrao (en, todas) voto hydrogen",1 2 3 5 8 13,1.66,50.0,32.0,1.0,15,19,0.6029122741607513,1.34,0.1739482573163158
+"padrao (pt, primeira) voto hydrogen",1 2 3 5 8 13,1.06,70.0,54.0,1.0,17,17,0.14718623002366665,,
+"padrao (pt, todas) voto hydrogen",1 2 3 5 8 13,1.46,50.0,48.0,1.0,16,17,1.0,1.06,0.04642701676003973

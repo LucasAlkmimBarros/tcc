@@ -1,0 +1,81 @@
+analise,conjunto,grupo,modelo,regua,metrica,modelo_media,regua_media,ganho_medio,ic95_inf,ic95_sup,modelo_melhor_em,projetos,p_wilcoxon
+entre projetos,Deep-SE,todos os projetos,TF-IDF original,mediana com 60% (a da literatura),MAE,2.5449,2.5903,0.0455,-0.0699,0.1598,8,16,0.4037
+entre projetos,Deep-SE,todos os projetos,TF-IDF original,mediana com 60% (a da literatura),RMSE,4.0289,4.1939,0.1649,0.0799,0.2747,13,16,0.0006
+entre projetos,Deep-SE,todos os projetos,TF-IDF original,mediana com 60% (a da literatura),erro_total_sprint,15.7572,17.2357,1.4785,0.4222,2.7657,14,16,0.0092
+entre projetos,Deep-SE,todos os projetos,TF-IDF original,mediana com 60% (a da literatura),dentro_1,38.8982,44.8619,-5.9638,-10.5718,-1.5188,2,16,0.0125
+entre projetos,Deep-SE,todos os projetos,TF-IDF original,mediana com 60% (a da literatura),cartao_exato,31.5110,28.9893,2.5216,-0.3760,5.7993,10,16,0.1398
+entre projetos,Deep-SE,todos os projetos,TF-IDF original,mediana com 80% (mesmo historico do modelo),MAE,2.5449,2.5425,-0.0023,-0.1011,0.0937,7,16,0.8999
+entre projetos,Deep-SE,todos os projetos,TF-IDF original,mediana com 80% (mesmo historico do modelo),RMSE,4.0289,4.1984,0.1695,0.0779,0.2898,13,16,0.0006
+entre projetos,Deep-SE,todos os projetos,TF-IDF original,mediana com 80% (mesmo historico do modelo),erro_total_sprint,15.7572,16.9321,1.1749,0.4214,1.9883,14,16,0.0063
+entre projetos,Deep-SE,todos os projetos,TF-IDF original,mediana com 80% (mesmo historico do modelo),dentro_1,38.8982,48.6585,-9.7604,-15.1661,-5.0796,1,16,0.0012
+entre projetos,Deep-SE,todos os projetos,TF-IDF original,mediana com 80% (mesmo historico do modelo),cartao_exato,31.5110,30.3703,1.1406,-0.9850,3.5885,9,16,0.3343
+entre projetos,Deep-SE,todos os projetos,modelo do software (TF-IDF + SVR),mediana com 60% (a da literatura),MAE,2.5449,2.5903,0.0455,-0.0688,0.1611,8,16,0.4037
+entre projetos,Deep-SE,todos os projetos,modelo do software (TF-IDF + SVR),mediana com 60% (a da literatura),RMSE,4.0289,4.1939,0.1649,0.0811,0.2805,13,16,0.0006
+entre projetos,Deep-SE,todos os projetos,modelo do software (TF-IDF + SVR),mediana com 60% (a da literatura),erro_total_sprint,15.7572,17.2357,1.4785,0.4176,2.8026,14,16,0.0092
+entre projetos,Deep-SE,todos os projetos,modelo do software (TF-IDF + SVR),mediana com 60% (a da literatura),dentro_1,38.8982,44.8619,-5.9638,-10.5341,-1.6181,2,16,0.0125
+entre projetos,Deep-SE,todos os projetos,modelo do software (TF-IDF + SVR),mediana com 60% (a da literatura),cartao_exato,31.5110,28.9893,2.5216,-0.3303,5.7809,10,16,0.1398
+entre projetos,Deep-SE,todos os projetos,modelo do software (TF-IDF + SVR),mediana com 80% (mesmo historico do modelo),MAE,2.5449,2.5425,-0.0023,-0.1002,0.0909,7,16,0.8999
+entre projetos,Deep-SE,todos os projetos,modelo do software (TF-IDF + SVR),mediana com 80% (mesmo historico do modelo),RMSE,4.0289,4.1984,0.1695,0.0787,0.2881,13,16,0.0006
+entre projetos,Deep-SE,todos os projetos,modelo do software (TF-IDF + SVR),mediana com 80% (mesmo historico do modelo),erro_total_sprint,15.7572,16.9321,1.1749,0.4325,1.9727,14,16,0.0063
+entre projetos,Deep-SE,todos os projetos,modelo do software (TF-IDF + SVR),mediana com 80% (mesmo historico do modelo),dentro_1,38.8982,48.6585,-9.7604,-15.1976,-5.1336,1,16,0.0012
+entre projetos,Deep-SE,todos os projetos,modelo do software (TF-IDF + SVR),mediana com 80% (mesmo historico do modelo),cartao_exato,31.5110,30.3703,1.1406,-1.0440,3.5214,9,16,0.3343
+entre projetos,Deep-SE,sem o Moodle,TF-IDF original,mediana com 60% (a da literatura),MAE,2.2480,2.3308,0.0828,-0.0051,0.1842,8,15,0.1876
+entre projetos,Deep-SE,sem o Moodle,TF-IDF original,mediana com 60% (a da literatura),RMSE,3.7058,3.8764,0.1706,0.0804,0.2876,12,15,0.0012
+entre projetos,Deep-SE,sem o Moodle,TF-IDF original,mediana com 80% (mesmo historico do modelo),MAE,2.2480,2.2798,0.0318,-0.0363,0.1113,7,15,0.5614
+entre projetos,Deep-SE,sem o Moodle,TF-IDF original,mediana com 80% (mesmo historico do modelo),RMSE,3.7058,3.8813,0.1755,0.0785,0.3002,12,15,0.0012
+entre projetos,Deep-SE,sem o Moodle,modelo do software (TF-IDF + SVR),mediana com 60% (a da literatura),MAE,2.2480,2.3308,0.0828,-0.0072,0.1864,8,15,0.1876
+entre projetos,Deep-SE,sem o Moodle,modelo do software (TF-IDF + SVR),mediana com 60% (a da literatura),RMSE,3.7058,3.8764,0.1706,0.0795,0.2897,12,15,0.0012
+entre projetos,Deep-SE,sem o Moodle,modelo do software (TF-IDF + SVR),mediana com 80% (mesmo historico do modelo),MAE,2.2480,2.2798,0.0318,-0.0354,0.1105,7,15,0.5614
+entre projetos,Deep-SE,sem o Moodle,modelo do software (TF-IDF + SVR),mediana com 80% (mesmo historico do modelo),RMSE,3.7058,3.8813,0.1755,0.0792,0.3035,12,15,0.0012
+por historia (todas juntas),Deep-SE,todos os projetos,TF-IDF original,mediana com 60% (a da literatura),MAE,2.9281,2.9902,0.0621,,,2136,4671,0.8547
+por historia (todas juntas),Deep-SE,todos os projetos,TF-IDF original,mediana com 80% (mesmo historico do modelo),MAE,2.9281,2.9784,0.0503,,,2096,4671,0.4493
+por historia (todas juntas),Deep-SE,todos os projetos,modelo do software (TF-IDF + SVR),mediana com 60% (a da literatura),MAE,2.9281,2.9902,0.0621,,,2136,4671,0.8547
+por historia (todas juntas),Deep-SE,todos os projetos,modelo do software (TF-IDF + SVR),mediana com 80% (mesmo historico do modelo),MAE,2.9281,2.9784,0.0503,,,2096,4671,0.4493
+tamanho do projeto,Deep-SE,metade maior dos projetos,TF-IDF original,mediana com 80% (mesmo historico do modelo),MAE,3.1055,3.0871,-0.0184,,,4,8,
+tamanho do projeto,Deep-SE,metade menor dos projetos,TF-IDF original,mediana com 80% (mesmo historico do modelo),MAE,1.9842,1.9980,0.0138,,,3,8,
+tamanho do projeto,Deep-SE,metade maior dos projetos,modelo do software (TF-IDF + SVR),mediana com 80% (mesmo historico do modelo),MAE,3.1055,3.0871,-0.0184,,,4,8,
+tamanho do projeto,Deep-SE,metade menor dos projetos,modelo do software (TF-IDF + SVR),mediana com 80% (mesmo historico do modelo),MAE,1.9842,1.9980,0.0138,,,3,8,
+entre projetos,TAWOS,todos os projetos,TF-IDF original,mediana com 60% (a da literatura),MAE,1.8489,1.8807,0.0318,-0.0446,0.1142,12,23,0.5009
+entre projetos,TAWOS,todos os projetos,TF-IDF original,mediana com 60% (a da literatura),RMSE,2.8971,3.0064,0.1093,0.0387,0.1810,18,23,0.0083
+entre projetos,TAWOS,todos os projetos,TF-IDF original,mediana com 60% (a da literatura),erro_total_sprint,10.7151,11.7526,1.0375,-0.1334,2.1912,16,23,0.0605
+entre projetos,TAWOS,todos os projetos,TF-IDF original,mediana com 60% (a da literatura),dentro_1,48.1615,59.0171,-10.8556,-15.3101,-6.8988,3,23,0.0000
+entre projetos,TAWOS,todos os projetos,TF-IDF original,mediana com 60% (a da literatura),cartao_exato,31.4185,30.8361,0.5824,-2.8317,4.1166,12,23,0.6274
+entre projetos,TAWOS,todos os projetos,TF-IDF original,mediana com 80% (mesmo historico do modelo),MAE,1.8489,1.8776,0.0287,-0.0452,0.1061,12,23,0.4452
+entre projetos,TAWOS,todos os projetos,TF-IDF original,mediana com 80% (mesmo historico do modelo),RMSE,2.8971,3.0139,0.1168,0.0486,0.1881,19,23,0.0035
+entre projetos,TAWOS,todos os projetos,TF-IDF original,mediana com 80% (mesmo historico do modelo),erro_total_sprint,10.7151,11.8867,1.1715,0.0700,2.2377,18,23,0.0135
+entre projetos,TAWOS,todos os projetos,TF-IDF original,mediana com 80% (mesmo historico do modelo),dentro_1,48.1615,59.7200,-11.5585,-15.9435,-7.5262,3,23,0.0000
+entre projetos,TAWOS,todos os projetos,TF-IDF original,mediana com 80% (mesmo historico do modelo),cartao_exato,31.4185,30.3075,1.1110,-1.9723,4.3593,13,23,0.3507
+entre projetos,TAWOS,todos os projetos,modelo do software (TF-IDF + SVR),mediana com 60% (a da literatura),MAE,1.8529,1.8807,0.0278,-0.0423,0.1076,10,23,0.7090
+entre projetos,TAWOS,todos os projetos,modelo do software (TF-IDF + SVR),mediana com 60% (a da literatura),RMSE,2.9081,3.0064,0.0983,0.0386,0.1619,18,23,0.0075
+entre projetos,TAWOS,todos os projetos,modelo do software (TF-IDF + SVR),mediana com 60% (a da literatura),erro_total_sprint,10.9072,11.7526,0.8454,-0.3043,1.9990,15,23,0.1511
+entre projetos,TAWOS,todos os projetos,modelo do software (TF-IDF + SVR),mediana com 60% (a da literatura),dentro_1,48.0776,59.0171,-10.9395,-15.1823,-7.1815,3,23,0.0000
+entre projetos,TAWOS,todos os projetos,modelo do software (TF-IDF + SVR),mediana com 60% (a da literatura),cartao_exato,31.4152,30.8361,0.5791,-2.9515,4.0923,13,23,0.5663
+entre projetos,TAWOS,todos os projetos,modelo do software (TF-IDF + SVR),mediana com 80% (mesmo historico do modelo),MAE,1.8529,1.8776,0.0247,-0.0451,0.1011,10,23,0.6869
+entre projetos,TAWOS,todos os projetos,modelo do software (TF-IDF + SVR),mediana com 80% (mesmo historico do modelo),RMSE,2.9081,3.0139,0.1058,0.0465,0.1719,19,23,0.0027
+entre projetos,TAWOS,todos os projetos,modelo do software (TF-IDF + SVR),mediana com 80% (mesmo historico do modelo),erro_total_sprint,10.9072,11.8867,0.9795,-0.0640,2.0286,17,23,0.0522
+entre projetos,TAWOS,todos os projetos,modelo do software (TF-IDF + SVR),mediana com 80% (mesmo historico do modelo),dentro_1,48.0776,59.7200,-11.6424,-15.8385,-7.8506,3,23,0.0000
+entre projetos,TAWOS,todos os projetos,modelo do software (TF-IDF + SVR),mediana com 80% (mesmo historico do modelo),cartao_exato,31.4152,30.3075,1.1077,-2.0834,4.3310,14,23,0.3392
+entre projetos,TAWOS,sem o Moodle,TF-IDF original,mediana com 60% (a da literatura),MAE,1.6739,1.6797,0.0057,-0.0576,0.0665,11,22,0.7262
+entre projetos,TAWOS,sem o Moodle,TF-IDF original,mediana com 60% (a da literatura),RMSE,2.7572,2.8493,0.0921,0.0279,0.1557,17,22,0.0156
+entre projetos,TAWOS,sem o Moodle,TF-IDF original,mediana com 80% (mesmo historico do modelo),MAE,1.6739,1.6764,0.0025,-0.0569,0.0590,11,22,0.6556
+entre projetos,TAWOS,sem o Moodle,TF-IDF original,mediana com 80% (mesmo historico do modelo),RMSE,2.7572,2.8571,0.1000,0.0359,0.1659,18,22,0.0066
+entre projetos,TAWOS,sem o Moodle,modelo do software (TF-IDF + SVR),mediana com 60% (a da literatura),MAE,1.6781,1.6797,0.0015,-0.0566,0.0597,9,22,0.9746
+entre projetos,TAWOS,sem o Moodle,modelo do software (TF-IDF + SVR),mediana com 60% (a da literatura),RMSE,2.7687,2.8493,0.0806,0.0282,0.1365,17,22,0.0141
+entre projetos,TAWOS,sem o Moodle,modelo do software (TF-IDF + SVR),mediana com 80% (mesmo historico do modelo),MAE,1.6781,1.6764,-0.0017,-0.0580,0.0509,9,22,0.9493
+entre projetos,TAWOS,sem o Moodle,modelo do software (TF-IDF + SVR),mediana com 80% (mesmo historico do modelo),RMSE,2.7687,2.8571,0.0885,0.0339,0.1459,18,22,0.0053
+entre projetos,TAWOS,so os 13 projetos que nao estao no Deep-SE,TF-IDF original,mediana com 60% (a da literatura),MAE,1.3988,1.3457,-0.0531,-0.1312,0.0163,4,13,0.3054
+entre projetos,TAWOS,so os 13 projetos que nao estao no Deep-SE,TF-IDF original,mediana com 60% (a da literatura),RMSE,1.9050,1.9651,0.0600,-0.0320,0.1555,8,13,0.4143
+entre projetos,TAWOS,so os 13 projetos que nao estao no Deep-SE,TF-IDF original,mediana com 80% (mesmo historico do modelo),MAE,1.3988,1.3538,-0.0450,-0.1257,0.0237,4,13,0.4143
+entre projetos,TAWOS,so os 13 projetos que nao estao no Deep-SE,TF-IDF original,mediana com 80% (mesmo historico do modelo),RMSE,1.9050,1.9735,0.0684,-0.0217,0.1613,9,13,0.2439
+entre projetos,TAWOS,so os 13 projetos que nao estao no Deep-SE,modelo do software (TF-IDF + SVR),mediana com 60% (a da literatura),MAE,1.4025,1.3457,-0.0568,-0.1217,0.0035,3,13,0.1465
+entre projetos,TAWOS,so os 13 projetos que nao estao no Deep-SE,modelo do software (TF-IDF + SVR),mediana com 60% (a da literatura),RMSE,1.9202,1.9651,0.0449,-0.0189,0.1192,8,13,0.4143
+entre projetos,TAWOS,so os 13 projetos que nao estao no Deep-SE,modelo do software (TF-IDF + SVR),mediana com 80% (mesmo historico do modelo),MAE,1.4025,1.3538,-0.0486,-0.1135,0.0097,3,13,0.2163
+entre projetos,TAWOS,so os 13 projetos que nao estao no Deep-SE,modelo do software (TF-IDF + SVR),mediana com 80% (mesmo historico do modelo),RMSE,1.9202,1.9735,0.0533,-0.0108,0.1235,9,13,0.2439
+por historia (todas juntas),TAWOS,todos os projetos,TF-IDF original,mediana com 60% (a da literatura),MAE,1.7975,1.8782,0.0806,,,2978,5988,0.0000
+por historia (todas juntas),TAWOS,todos os projetos,TF-IDF original,mediana com 80% (mesmo historico do modelo),MAE,1.7975,1.8765,0.0790,,,2965,5988,0.0000
+por historia (todas juntas),TAWOS,todos os projetos,modelo do software (TF-IDF + SVR),mediana com 60% (a da literatura),MAE,1.8018,1.8782,0.0763,,,2966,5988,0.0000
+por historia (todas juntas),TAWOS,todos os projetos,modelo do software (TF-IDF + SVR),mediana com 80% (mesmo historico do modelo),MAE,1.8018,1.8765,0.0747,,,2953,5988,0.0000
+tamanho do projeto,TAWOS,metade maior dos projetos,TF-IDF original,mediana com 80% (mesmo historico do modelo),MAE,1.8367,1.9371,0.1004,,,9,12,
+tamanho do projeto,TAWOS,metade menor dos projetos,TF-IDF original,mediana com 80% (mesmo historico do modelo),MAE,1.8622,1.8128,-0.0494,,,3,11,
+tamanho do projeto,TAWOS,metade maior dos projetos,modelo do software (TF-IDF + SVR),mediana com 80% (mesmo historico do modelo),MAE,1.8436,1.9371,0.0935,,,8,12,
+tamanho do projeto,TAWOS,metade menor dos projetos,modelo do software (TF-IDF + SVR),mediana com 80% (mesmo historico do modelo),MAE,1.8631,1.8128,-0.0503,,,2,11,

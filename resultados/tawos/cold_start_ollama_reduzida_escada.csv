@@ -1,0 +1,9 @@
+metodo,degrau,pergunta,regua,vitorias,empates,MAE_metodo,MAE_regua,p,projetos,passou
+LLM com referencias (prompt unico),0,serve para alguma coisa,mediana dos outros projetos,8,0,1.8479166666666664,1.9354166666666668,0.6220703125,12,False
+LLM com referencias (prompt unico),1,as referencias importam,LLM sem referencia,10,0,1.8479166666666664,3.4868055555555557,0.0048828125,12,True
+LLM com referencias (prompt unico),2,o LLM importa,referencia mais parecida (TF-IDF),12,0,1.8479166666666664,3.3756944444444446,0.00048828125,12,True
+LLM com referencias (prompt unico),3,cold start resolvido,mediana da equipe,5,0,1.8479166666666664,1.9965277777777777,0.5693359375,12,False
+LLM com referencias (busca binaria),0,serve para alguma coisa,mediana dos outros projetos,1,0,3.7055555555555557,1.9354166666666668,0.0068359375,12,False
+LLM com referencias (busca binaria),1,as referencias importam,LLM sem referencia,4,0,3.7055555555555557,3.4868055555555557,0.5185546875,12,False
+LLM com referencias (busca binaria),2,o LLM importa,referencia mais parecida (TF-IDF),7,0,3.7055555555555557,3.3756944444444446,0.90966796875,12,False
+LLM com referencias (busca binaria),3,cold start resolvido,mediana da equipe,2,0,3.7055555555555557,1.9965277777777777,0.00244140625,12,False

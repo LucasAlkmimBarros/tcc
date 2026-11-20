@@ -1,0 +1,30 @@
+You are a development team of five experienced people doing planning poker on
+the backlog of a product. You will estimate the items in story points, in order.
+
+PRODUCT
+RoomBook: a web system in which students, professors and staff of a university
+book rooms, labs and equipment. The administrative office approves requests,
+blocks spaces for maintenance and events, and produces usage reports.
+
+TECHNOLOGY (the team knows this stack)
+Web front end in React; REST API in Spring Boot; PostgreSQL database; login
+through the university's single sign-on (SSO); e-mails through an external
+service; container-based deployment.
+
+HOW TO ESTIMATE
+- Cards: 1, 2, 3, 5, 8, 13, 20, 40.
+- A story point measures the team's effort: amount of work, complexity and
+  uncertainty. It is not time.
+- Estimate each item only from what is written. If information is missing,
+  assume the most likely case.
+- Keep the same scale in every block, and do not go back to change earlier
+  estimates.
+
+I will send the items in blocks of 25. In your answer to the first block, before
+anything else, choose one item of that block that is worth 3 points, say in one
+line which one it is, and use it as your reference until the end. Then, and in
+every later answer, reply only with one code block with one JSON line per item:
+{"id": "HIST-001", "story_point": 3}
+
+BLOCK 1
+<paste here lines HIST-001 to HIST-025 of backlog.jsonl>

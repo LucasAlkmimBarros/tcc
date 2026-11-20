@@ -1,0 +1,35 @@
+conjunto,solucao,origem,historias,projetos,MAE,MdAE,cartao_exato,dentro_1,correlacao,vence_mediana,de,p_wilcoxon
+Deep-SE,palpite aleatorio,experimento.py,teste completo (20% finais),16,4.6469,,,,,0,16,0.0000
+Deep-SE,media historica,experimento.py,teste completo (20% finais),16,3.4578,3.1309,23.7102,23.7279,,1,16,0.0001
+Deep-SE,mediana historica,experimento.py,teste completo (20% finais),16,2.5903,2.0625,28.9893,44.8619,,0,16,
+Deep-SE,mediana com o mesmo historico do modelo (80%),tabela_central.py,teste completo (20% finais),16,2.5425,1.9375,30.3703,48.6585,,2,16,0.1797
+Deep-SE,TF-IDF + SVR (modelo do software),previsoes.py,teste completo (20% finais),16,2.5449,1.8791,31.5110,38.8982,0.2763,8,16,0.4037
+Deep-SE,TF-IDF + regressor (original),previsoes.py,teste completo (20% finais),16,2.5449,1.8791,31.5110,38.8982,0.2763,8,16,0.4037
+Deep-SE,Deep-SE como publicado (contestado),"Choetkiertikul et al., Tab. II",teste deles (corte no teste),16,2.0869,,,,,16,16,0.0000
+Deep-SE,"Deep-SE replicado, sem teto","Tawosi et al. 2022, Tab. 3",mesma divisao cronologica,16,2.6806,,,,,6,16,0.5321
+Deep-SE,"Deep-SE replicado, teto so no treino","Tawosi et al. 2022, Tab. 3",mesma divisao cronologica,16,2.5881,,,,,7,16,0.7332
+Deep-SE,GPT2SP corrigido (replicacao),"Tawosi et al. 2022 (relatorio GPT2SP), Tab. 1",mesma divisao cronologica,16,2.6919,,,,,6,16,0.3225
+Deep-SE,LLM: DeepSeek-V3.2 sem exemplo,"Shetty et al. 2026, recalculado",teste completo (20% finais),16,2.8583,2.0625,20.4410,30.9511,0.4024,6,16,0.3484
+Deep-SE,LLM: Kimi K2 sem exemplo,"Shetty et al. 2026, recalculado",teste completo (20% finais),16,3.1207,2.2500,20.9126,33.1356,0.3791,5,16,0.1046
+Deep-SE,LLM: OpenAI sem exemplo,"Shetty et al. 2026, recalculado",teste completo (20% finais),16,3.3593,2.7188,18.5235,27.1673,0.3319,4,16,0.0214
+Deep-SE,LLM: Gemini sem exemplo,"Shetty et al. 2026, recalculado",teste completo (20% finais),16,3.5632,2.5000,18.2114,26.9033,0.2981,2,16,0.0017
+Deep-SE,LLM: DeepSeek-V3.2 com 5 exemplos (Scale),"Shetty et al. 2026, recalculado",teste completo (20% finais),16,2.9791,2.4375,23.6446,38.0183,0.4458,4,16,0.0443
+Deep-SE,regua do dia zero: mediana dos outros projetos,tabela_central.py,teste completo (20% finais),16,3.0022,2.2188,20.6473,36.5851,,3,16,0.0409
+TAWOS,palpite aleatorio,experimento.py,teste completo (20% finais),23,3.2736,,,,,0,23,0.0000
+TAWOS,media historica,experimento.py,teste completo (20% finais),23,2.5593,2.4598,26.9974,32.5156,,3,23,0.0002
+TAWOS,mediana historica,experimento.py,teste completo (20% finais),23,1.8807,1.6957,30.8361,59.0171,,0,23,
+TAWOS,mediana com o mesmo historico do modelo (80%),tabela_central.py,teste completo (20% finais),23,1.8776,1.6957,30.3075,59.7200,,2,23,0.5930
+TAWOS,TF-IDF + SVR (modelo do software),previsoes.py,teste completo (20% finais),23,1.8529,1.4070,31.4152,48.0776,0.2004,10,23,0.7090
+TAWOS,TF-IDF + regressor (original),previsoes.py,teste completo (20% finais),23,1.8489,1.4223,31.4185,48.1615,0.1933,12,23,0.5009
+TAWOS,Deep-SE (replicacao),"Tawosi et al. 2022, Tab. 5",mesma divisao cronologica,23,1.8113,,,,,9,23,0.4688
+TAWOS,TF/IDF-SVM (replicacao),"Tawosi et al. 2022, Tab. 5",mesma divisao cronologica,23,2.0374,,,,,2,23,0.0592
+TAWOS,regua do dia zero: mediana dos outros projetos,tabela_central.py,teste completo (20% finais),23,1.9840,1.4565,18.8413,66.7022,,6,23,0.1627
+TAWOS,LLM sem referencia [gemini-3.5-flash-lite],cold_start_previsoes_llm_lote_reduzida_tipica.csv,amostra do cold start (720 historias),12,2.4194,1.7917,23.7500,44.8611,0.2437,2,12,0.0425
+TAWOS,LLM com referencias (prompt unico) [gemini-3.5-flash-lite],cold_start_previsoes_llm_lote_reduzida_tipica.csv,amostra do cold start (720 historias),12,1.9340,1.3333,31.6667,60.5556,0.2891,5,12,0.4697
+TAWOS,LLM com referencias (busca binaria) [gemini-3.5-flash-lite],cold_start_previsoes_llm_lote_reduzida_tipica.csv,amostra do cold start (720 historias),12,2.9736,2.1250,27.7778,42.6389,0.3285,2,12,0.0269
+TAWOS,"LLM sem referencia [qwen2.5:14b, local]",cold_start_previsoes_llm_ollama_reduzida_tipica.csv,amostra do cold start (720 historias),12,3.4868,2.5417,15.2778,25.6944,0.2468,1,12,0.0161
+TAWOS,"LLM com referencias (prompt unico) [qwen2.5:14b, local]",cold_start_previsoes_llm_ollama_reduzida_tipica.csv,amostra do cold start (720 historias),12,1.8479,1.4583,30.1389,62.6389,0.2115,5,12,0.5693
+TAWOS,"LLM com referencias (busca binaria) [qwen2.5:14b, local]",cold_start_previsoes_llm_ollama_reduzida_tipica.csv,amostra do cold start (720 historias),12,3.7056,3.4792,25.2778,39.7222,0.2941,2,12,0.0024
+TAWOS,mediana historica (mesma amostra),cold_start_reguas.py,amostra do cold start (720 historias),12,1.9965,1.8750,32.7778,58.7500,,0,12,
+TAWOS,regua do dia zero (mesma amostra),cold_start_reguas.py,amostra do cold start (720 historias),12,1.9354,1.7500,21.6667,69.8611,,4,12,0.7794
+TAWOS,referencia mais parecida por TF-IDF (mesma amostra),cold_start_reguas.py,amostra do cold start (720 historias),12,3.3757,2.4167,19.7222,40.0000,0.0110,1,12,0.0210

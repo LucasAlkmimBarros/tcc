@@ -1,0 +1,2 @@
+modelo,provedor,issues,respostas_validas,acertos_exatos,acerto_exato_pct,acertos_embaralhado_media,acertos_embaralhado_p95,p_valor_permutacao,acerto_exato_mediana_equipe_pct,MAE_llm_so_identificador,MAE_mediana_equipe,respostas_distintas
+gemini-3.5-flash-lite,gemini,115,97,22,22.68041237113402,22.421,25.0,0.7534,35.051546391752574,1.9381443298969072,1.6597938144329898,3

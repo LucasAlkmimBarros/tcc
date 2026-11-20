@@ -1,0 +1,5 @@
+metodo,MAE_metodo,cruzamento_n_medio,cruzamento_estavel_n_medio,projetos_que_cruzam,cruzamento_n_mediana_projetos,cruzamento_estavel_n_mediana_projetos,projetos_ja_com_1_historia,projetos
+LLM com referencias (prompt unico),1.9340277777777777,1,5,8,1.0,1.0,7,12
+LLM com referencias (busca binaria),2.9736111111111114,1,1,11,1.0,1.0,10,12
+LLM sem referencia,2.4194444444444447,1,1,12,1.0,1.0,10,12
+mediana dos outros projetos,1.9354166666666668,1,5,11,1.0,1.0,7,12

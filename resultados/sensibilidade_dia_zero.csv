@@ -1,0 +1,69 @@
+analise,llm,grupo,regua,metrica,llm_media,regua_media,ganho_medio,ic95_inf,ic95_sup,llm_melhor_em,projetos,p_wilcoxon
+LLM com referencias contra a regua,Gemini 3.5 Flash-Lite,12 projetos,mediana da equipe,MAE,1.9340,1.9965,0.0625,-0.5792,0.9472,5,12,0.4697
+LLM com referencias contra a regua,Gemini 3.5 Flash-Lite,12 projetos,mediana dos outros projetos,MAE,1.9340,1.9354,0.0014,-0.3528,0.3347,7,12,0.8501
+LLM com referencias contra a regua,Gemini 3.5 Flash-Lite,12 projetos,LLM sem referencia,MAE,1.9340,2.4194,0.4854,0.1618,0.8264,10,12,0.0122
+LLM com referencias contra a regua,Gemini 3.5 Flash-Lite,sem o Moodle (11),mediana da equipe,MAE,1.9265,1.6083,-0.3182,-0.6894,0.0212,4,11,0.1748
+LLM com referencias contra a regua,Gemini 3.5 Flash-Lite,sem o Moodle (11),mediana dos outros projetos,MAE,1.9265,2.0023,0.0758,-0.2955,0.4061,7,11,0.5195
+LLM com referencias contra a regua,Gemini 3.5 Flash-Lite,sem o Moodle (11),LLM sem referencia,MAE,1.9265,2.4447,0.5182,0.1674,0.8697,9,11,0.0186
+LLM com referencias contra a regua,Gemini 3.5 Flash-Lite,12 projetos,mediana da equipe,cartao_exato,31.6667,32.7778,-1.1111,-10.4167,8.3333,6,12,0.9097
+LLM com referencias contra a regua,Gemini 3.5 Flash-Lite,12 projetos,mediana dos outros projetos,cartao_exato,31.6667,21.6667,10.0000,3.0556,16.6667,10,12,0.0269
+LLM com referencias contra a regua,Gemini 3.5 Flash-Lite,12 projetos,LLM sem referencia,cartao_exato,31.6667,23.7500,7.9167,1.3889,14.1667,9,12,0.0425
+LLM com referencias contra a regua,Gemini 3.5 Flash-Lite,sem o Moodle (11),mediana da equipe,cartao_exato,32.7273,35.7576,-3.0303,-12.1212,7.1212,5,11,0.5771
+LLM com referencias contra a regua,Gemini 3.5 Flash-Lite,sem o Moodle (11),mediana dos outros projetos,cartao_exato,32.7273,22.7273,10.0000,2.2727,17.4242,9,11,0.0420
+LLM com referencias contra a regua,Gemini 3.5 Flash-Lite,sem o Moodle (11),LLM sem referencia,cartao_exato,32.7273,24.5455,8.1818,0.9091,15.0000,8,11,0.0674
+LLM com referencias contra a regua,Gemini 3.5 Flash-Lite,12 projetos,mediana da equipe,dentro_1,60.5556,58.7500,1.8056,-8.7500,14.4479,4,12,0.9292
+LLM com referencias contra a regua,Gemini 3.5 Flash-Lite,12 projetos,mediana dos outros projetos,dentro_1,60.5556,69.8611,-9.3056,-16.9444,-2.6389,2,12,0.0408
+LLM com referencias contra a regua,Gemini 3.5 Flash-Lite,12 projetos,LLM sem referencia,dentro_1,60.5556,44.8611,15.6944,6.3889,24.4444,9,12,0.0093
+LLM com referencias contra a regua,Gemini 3.5 Flash-Lite,sem o Moodle (11),mediana da equipe,dentro_1,61.0606,64.0909,-3.0303,-10.6061,5.1515,3,11,0.5076
+LLM com referencias contra a regua,Gemini 3.5 Flash-Lite,sem o Moodle (11),mediana dos outros projetos,dentro_1,61.0606,69.0909,-8.0303,-15.7576,-1.6667,2,11,0.0743
+LLM com referencias contra a regua,Gemini 3.5 Flash-Lite,sem o Moodle (11),LLM sem referencia,dentro_1,61.0606,45.3030,15.7576,5.4545,25.0000,8,11,0.0186
+mediana das n historias mais recentes,Gemini 3.5 Flash-Lite,12 projetos,mediana das 1 mais recentes,MAE,1.9340,1.8243,-0.1097,,,5,12,
+mediana das n historias mais recentes,Gemini 3.5 Flash-Lite,sem o Moodle (11),mediana das 1 mais recentes,MAE,1.9265,1.8992,-0.0273,,,5,11,
+mediana das n historias mais recentes,Gemini 3.5 Flash-Lite,12 projetos,mediana das 2 mais recentes,MAE,1.9340,1.9493,0.0153,,,6,12,
+mediana das n historias mais recentes,Gemini 3.5 Flash-Lite,sem o Moodle (11),mediana das 2 mais recentes,MAE,1.9265,2.0356,0.1091,,,6,11,
+mediana das n historias mais recentes,Gemini 3.5 Flash-Lite,12 projetos,mediana das 3 mais recentes,MAE,1.9340,2.0049,0.0708,,,5,12,
+mediana das n historias mais recentes,Gemini 3.5 Flash-Lite,sem o Moodle (11),mediana das 3 mais recentes,MAE,1.9265,2.0962,0.1697,,,5,11,
+mediana das n historias mais recentes,Gemini 3.5 Flash-Lite,12 projetos,mediana das 5 mais recentes,MAE,1.9340,1.8326,-0.1014,,,4,12,
+mediana das n historias mais recentes,Gemini 3.5 Flash-Lite,sem o Moodle (11),mediana das 5 mais recentes,MAE,1.9265,1.9083,-0.0182,,,4,11,
+mediana das n historias mais recentes,Gemini 3.5 Flash-Lite,12 projetos,mediana das 10 mais recentes,MAE,1.9340,1.7576,-0.1764,,,5,12,
+mediana das n historias mais recentes,Gemini 3.5 Flash-Lite,sem o Moodle (11),mediana das 10 mais recentes,MAE,1.9265,1.8265,-0.1000,,,5,11,
+mediana das n historias mais recentes,Gemini 3.5 Flash-Lite,12 projetos,mediana das 15 mais recentes,MAE,1.9340,1.5910,-0.3431,,,4,12,
+mediana das n historias mais recentes,Gemini 3.5 Flash-Lite,sem o Moodle (11),mediana das 15 mais recentes,MAE,1.9265,1.6447,-0.2818,,,4,11,
+mediana das n historias mais recentes,Gemini 3.5 Flash-Lite,12 projetos,mediana das 20 mais recentes,MAE,1.9340,1.5993,-0.3347,,,4,12,
+mediana das n historias mais recentes,Gemini 3.5 Flash-Lite,sem o Moodle (11),mediana das 20 mais recentes,MAE,1.9265,1.6356,-0.2909,,,4,11,
+mediana das n historias mais recentes,Gemini 3.5 Flash-Lite,12 projetos,mediana das 30 mais recentes,MAE,1.9340,1.5993,-0.3347,,,4,12,
+mediana das n historias mais recentes,Gemini 3.5 Flash-Lite,sem o Moodle (11),mediana das 30 mais recentes,MAE,1.9265,1.6356,-0.2909,,,4,11,
+LLM com referencias contra a regua,Qwen 2.5 14B (local),12 projetos,mediana da equipe,MAE,1.8479,1.9965,0.1486,-0.4694,1.0819,5,12,0.5693
+LLM com referencias contra a regua,Qwen 2.5 14B (local),12 projetos,mediana dos outros projetos,MAE,1.8479,1.9354,0.0875,-0.2097,0.4014,8,12,0.5693
+LLM com referencias contra a regua,Qwen 2.5 14B (local),12 projetos,LLM sem referencia,MAE,1.8479,3.4868,1.6389,0.8458,2.4361,10,12,0.0049
+LLM com referencias contra a regua,Qwen 2.5 14B (local),sem o Moodle (11),mediana da equipe,MAE,1.8629,1.6083,-0.2545,-0.5561,0.0545,4,11,0.2402
+LLM com referencias contra a regua,Qwen 2.5 14B (local),sem o Moodle (11),mediana dos outros projetos,MAE,1.8629,2.0023,0.1394,-0.1622,0.4637,8,11,0.3203
+LLM com referencias contra a regua,Qwen 2.5 14B (local),sem o Moodle (11),LLM sem referencia,MAE,1.8629,3.4523,1.5894,0.7394,2.4424,9,11,0.0098
+LLM com referencias contra a regua,Qwen 2.5 14B (local),12 projetos,mediana da equipe,cartao_exato,30.1389,32.7778,-2.6389,-11.9444,7.5000,4,12,0.4769
+LLM com referencias contra a regua,Qwen 2.5 14B (local),12 projetos,mediana dos outros projetos,cartao_exato,30.1389,21.6667,8.4722,3.7500,12.7778,8,12,0.0125
+LLM com referencias contra a regua,Qwen 2.5 14B (local),12 projetos,LLM sem referencia,cartao_exato,30.1389,15.2778,14.8611,4.5833,25.2778,9,12,0.0210
+LLM com referencias contra a regua,Qwen 2.5 14B (local),sem o Moodle (11),mediana da equipe,cartao_exato,30.7576,35.7576,-5.0000,-13.7879,4.8485,3,11,0.2411
+LLM com referencias contra a regua,Qwen 2.5 14B (local),sem o Moodle (11),mediana dos outros projetos,cartao_exato,30.7576,22.7273,8.0303,3.0303,12.7273,7,11,0.0209
+LLM com referencias contra a regua,Qwen 2.5 14B (local),sem o Moodle (11),LLM sem referencia,cartao_exato,30.7576,15.6061,15.1515,3.9394,26.0606,8,11,0.0322
+LLM com referencias contra a regua,Qwen 2.5 14B (local),12 projetos,mediana da equipe,dentro_1,62.6389,58.7500,3.8889,-6.3889,14.8611,5,12,0.7220
+LLM com referencias contra a regua,Qwen 2.5 14B (local),12 projetos,mediana dos outros projetos,dentro_1,62.6389,69.8611,-7.2222,-14.7222,-0.5556,3,12,0.0997
+LLM com referencias contra a regua,Qwen 2.5 14B (local),12 projetos,LLM sem referencia,dentro_1,62.6389,25.6944,36.9444,21.1111,52.3611,10,12,0.0034
+LLM com referencias contra a regua,Qwen 2.5 14B (local),sem o Moodle (11),mediana da equipe,dentro_1,64.0909,64.0909,-0.0000,-8.1818,8.1818,4,11,0.8784
+LLM com referencias contra a regua,Qwen 2.5 14B (local),sem o Moodle (11),mediana dos outros projetos,dentro_1,64.0909,69.0909,-5.0000,-11.6667,0.6061,3,11,0.1846
+LLM com referencias contra a regua,Qwen 2.5 14B (local),sem o Moodle (11),LLM sem referencia,dentro_1,64.0909,25.7576,38.3333,21.0606,54.3939,9,11,0.0068
+mediana das n historias mais recentes,Qwen 2.5 14B (local),12 projetos,mediana das 1 mais recentes,MAE,1.8479,1.8243,-0.0236,,,6,12,
+mediana das n historias mais recentes,Qwen 2.5 14B (local),sem o Moodle (11),mediana das 1 mais recentes,MAE,1.8629,1.8992,0.0364,,,6,11,
+mediana das n historias mais recentes,Qwen 2.5 14B (local),12 projetos,mediana das 2 mais recentes,MAE,1.8479,1.9493,0.1014,,,7,12,
+mediana das n historias mais recentes,Qwen 2.5 14B (local),sem o Moodle (11),mediana das 2 mais recentes,MAE,1.8629,2.0356,0.1727,,,7,11,
+mediana das n historias mais recentes,Qwen 2.5 14B (local),12 projetos,mediana das 3 mais recentes,MAE,1.8479,2.0049,0.1569,,,6,12,
+mediana das n historias mais recentes,Qwen 2.5 14B (local),sem o Moodle (11),mediana das 3 mais recentes,MAE,1.8629,2.0962,0.2333,,,6,11,
+mediana das n historias mais recentes,Qwen 2.5 14B (local),12 projetos,mediana das 5 mais recentes,MAE,1.8479,1.8326,-0.0153,,,5,12,
+mediana das n historias mais recentes,Qwen 2.5 14B (local),sem o Moodle (11),mediana das 5 mais recentes,MAE,1.8629,1.9083,0.0455,,,5,11,
+mediana das n historias mais recentes,Qwen 2.5 14B (local),12 projetos,mediana das 10 mais recentes,MAE,1.8479,1.7576,-0.0903,,,6,12,
+mediana das n historias mais recentes,Qwen 2.5 14B (local),sem o Moodle (11),mediana das 10 mais recentes,MAE,1.8629,1.8265,-0.0364,,,6,11,
+mediana das n historias mais recentes,Qwen 2.5 14B (local),12 projetos,mediana das 15 mais recentes,MAE,1.8479,1.5910,-0.2569,,,4,12,
+mediana das n historias mais recentes,Qwen 2.5 14B (local),sem o Moodle (11),mediana das 15 mais recentes,MAE,1.8629,1.6447,-0.2182,,,4,11,
+mediana das n historias mais recentes,Qwen 2.5 14B (local),12 projetos,mediana das 20 mais recentes,MAE,1.8479,1.5993,-0.2486,,,4,12,
+mediana das n historias mais recentes,Qwen 2.5 14B (local),sem o Moodle (11),mediana das 20 mais recentes,MAE,1.8629,1.6356,-0.2273,,,4,11,
+mediana das n historias mais recentes,Qwen 2.5 14B (local),12 projetos,mediana das 30 mais recentes,MAE,1.8479,1.5993,-0.2486,,,4,12,
+mediana das n historias mais recentes,Qwen 2.5 14B (local),sem o Moodle (11),mediana das 30 mais recentes,MAE,1.8629,1.6356,-0.2273,,,4,11,

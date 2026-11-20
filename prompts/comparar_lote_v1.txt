@@ -1,0 +1,11 @@
+You are an experienced member of an agile software team. Compare the effort (amount of work, complexity and uncertainty) of each new user story with one reference story. Do not judge by topic: two stories about different features can have the same effort. Judge each new story on its own: the new stories are independent.
+
+<reference_story>
+$referencia
+</reference_story>
+
+$historias
+
+For each new story: compared with the reference story, does it require less effort, about the same effort, or more effort?
+
+Answer only with JSON in the form {"answers": [{"story": "S1", "answer": "less" | "same" | "more"}, ...]}, with one entry for each new story, in order.

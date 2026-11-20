@@ -1,0 +1,35 @@
+# Tema da pagina do software (desenho feito no Claude Design, direcao B).
+# A fonte vem do Google Fonts: sem internet, a pagina cai na fonte do sistema.
+
+[theme]
+base = "light"
+primaryColor = "#1F5C99"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F3F5F8"
+textColor = "#121A26"
+linkColor = "#1F5C99"
+borderColor = "#D3D8DF"
+showWidgetBorder = true
+showSidebarBorder = true
+baseRadius = "6px"
+buttonRadius = "6px"
+baseFontSize = 17
+font = "IBM Plex Sans:https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap, sans-serif"
+headingFont = "IBM Plex Sans:https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap, sans-serif"
+headingFontSizes = ["2rem", "1.5rem", "1.25rem"]
+headingFontWeights = [600, 600, 600]
+dataframeBorderColor = "#E1E5EA"
+dataframeHeaderBackgroundColor = "#F3F5F8"
+blueBackgroundColor = "#E8F0F8"
+blueTextColor = "#163F66"
+yellowBackgroundColor = "#FCF3D7"
+yellowTextColor = "#5C4300"
+
+[theme.sidebar]
+backgroundColor = "#F3F5F8"
+secondaryBackgroundColor = "#FFFFFF"
+
+# Esconde o menu de desenvolvedor do canto superior direito (Deploy, Rerun,
+# Settings, Print, Record a screencast): nada ali serve para quem estima.
+[client]
+toolbarMode = "minimal"

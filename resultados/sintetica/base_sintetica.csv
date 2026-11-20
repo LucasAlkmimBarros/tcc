@@ -1,0 +1,3 @@
+projeto,condicao,n_historico,n_teste,MAE,dentro_1,cartao_exato,RMSE,modelo_erra_menos_em,empates,mediana_erra_menos_em,p_wilcoxon
+roombook,mediana historica,200,50,1.9,42.0,42.0,3.215587038162705,25,0,25,0.03286210881230289
+roombook,TF-IDF + SVR,200,50,1.5398844514896697,62.0,62.0,2.8327755617397314,25,0,25,0.03286210881230289

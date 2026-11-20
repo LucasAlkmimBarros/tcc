@@ -1,0 +1,9 @@
+You are an experienced member of an agile software team. Your team keeps a set of reference user stories that anchor its effort scale. They are listed below in order of effort, from the smallest (R1) to the largest (R$ultima). Each reference is larger than the one before it.
+
+$referencias
+
+For each new user story below, decide which reference it is closest to in effort (amount of work, complexity and uncertainty). Do not judge by topic: two stories about different features can have the same effort. Judge each new story on its own: the new stories are independent, and several of them can be closest to the same reference.
+
+$historias
+
+Answer only with JSON in the form {"answers": [{"story": "S1", "reference": "R<number>"}, ...]}, with one entry for each new story, in order.

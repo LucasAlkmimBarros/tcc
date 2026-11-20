@@ -1,0 +1,601 @@
+conjunto,projeto,pontuacao,k,alpha_C,corte,historias_teste,grandes,avisos,acertos,alarmes_falsos
+Deep-SE,appceleratorstudio,valor calculado (modelo atual),1,0.0010,inf,584,3,0,0,0
+Deep-SE,appceleratorstudio,valor calculado (modelo atual),2,0.0010,inf,584,3,0,0,0
+Deep-SE,appceleratorstudio,valor calculado (modelo atual),3,0.0010,inf,584,3,0,0,0
+Deep-SE,appceleratorstudio,valor calculado (modelo atual),4,0.0010,inf,584,3,0,0,0
+Deep-SE,appceleratorstudio,valor calculado (modelo atual),6,0.0010,inf,584,3,0,0,0
+Deep-SE,appceleratorstudio,C: quantil 80%,1,0.0010,inf,584,3,0,0,0
+Deep-SE,appceleratorstudio,C: quantil 80%,2,0.0010,inf,584,3,0,0,0
+Deep-SE,appceleratorstudio,C: quantil 80%,3,0.0010,inf,584,3,0,0,0
+Deep-SE,appceleratorstudio,C: quantil 80%,4,0.0010,inf,584,3,0,0,0
+Deep-SE,appceleratorstudio,C: quantil 80%,6,0.0010,inf,584,3,0,0,0
+Deep-SE,appceleratorstudio,D: classificador,1,0.0010,inf,584,3,0,0,0
+Deep-SE,appceleratorstudio,D: classificador,2,0.0010,0.7070,584,3,8,0,8
+Deep-SE,appceleratorstudio,D: classificador,3,0.0010,0.6918,584,3,8,0,8
+Deep-SE,appceleratorstudio,D: classificador,4,0.0010,0.6840,584,3,8,0,8
+Deep-SE,appceleratorstudio,D: classificador,6,0.0010,0.6070,584,3,15,0,15
+Deep-SE,aptanastudio,valor calculado (modelo atual),1,0.0010,inf,166,7,0,0,0
+Deep-SE,aptanastudio,valor calculado (modelo atual),2,0.0010,inf,166,7,0,0,0
+Deep-SE,aptanastudio,valor calculado (modelo atual),3,0.0010,inf,166,7,0,0,0
+Deep-SE,aptanastudio,valor calculado (modelo atual),4,0.0010,8.2709,166,7,18,2,16
+Deep-SE,aptanastudio,valor calculado (modelo atual),6,0.0010,7.9922,166,7,40,4,36
+Deep-SE,aptanastudio,C: quantil 80%,1,0.0010,inf,166,7,0,0,0
+Deep-SE,aptanastudio,C: quantil 80%,2,0.0010,inf,166,7,0,0,0
+Deep-SE,aptanastudio,C: quantil 80%,3,0.0010,inf,166,7,0,0,0
+Deep-SE,aptanastudio,C: quantil 80%,4,0.0010,inf,166,7,0,0,0
+Deep-SE,aptanastudio,C: quantil 80%,6,0.0010,inf,166,7,0,0,0
+Deep-SE,aptanastudio,D: classificador,1,0.0010,inf,166,7,0,0,0
+Deep-SE,aptanastudio,D: classificador,2,0.0010,inf,166,7,0,0,0
+Deep-SE,aptanastudio,D: classificador,3,0.0010,inf,166,7,0,0,0
+Deep-SE,aptanastudio,D: classificador,4,0.0010,inf,166,7,0,0,0
+Deep-SE,aptanastudio,D: classificador,6,0.0010,0.3952,166,7,16,3,13
+Deep-SE,bamboo,valor calculado (modelo atual),1,0.0003,inf,105,4,0,0,0
+Deep-SE,bamboo,valor calculado (modelo atual),2,0.0003,3.3123,105,4,2,0,2
+Deep-SE,bamboo,valor calculado (modelo atual),3,0.0003,3.2565,105,4,2,0,2
+Deep-SE,bamboo,valor calculado (modelo atual),4,0.0003,3.0936,105,4,2,0,2
+Deep-SE,bamboo,valor calculado (modelo atual),6,0.0003,2.9097,105,4,5,0,5
+Deep-SE,bamboo,C: quantil 80%,1,0.0003,inf,105,4,0,0,0
+Deep-SE,bamboo,C: quantil 80%,2,0.0003,inf,105,4,0,0,0
+Deep-SE,bamboo,C: quantil 80%,3,0.0003,inf,105,4,0,0,0
+Deep-SE,bamboo,C: quantil 80%,4,0.0003,inf,105,4,0,0,0
+Deep-SE,bamboo,C: quantil 80%,6,0.0003,inf,105,4,0,0,0
+Deep-SE,bamboo,D: classificador,1,0.0003,inf,105,4,0,0,0
+Deep-SE,bamboo,D: classificador,2,0.0003,inf,105,4,0,0,0
+Deep-SE,bamboo,D: classificador,3,0.0003,0.5185,105,4,7,0,7
+Deep-SE,bamboo,D: classificador,4,0.0003,0.5011,105,4,7,0,7
+Deep-SE,bamboo,D: classificador,6,0.0003,0.4656,105,4,11,1,10
+Deep-SE,clover,valor calculado (modelo atual),1,0.0010,inf,77,21,0,0,0
+Deep-SE,clover,valor calculado (modelo atual),2,0.0010,1.9681,77,21,71,21,50
+Deep-SE,clover,valor calculado (modelo atual),3,0.0010,1.4336,77,21,77,21,56
+Deep-SE,clover,valor calculado (modelo atual),4,0.0010,1.4336,77,21,77,21,56
+Deep-SE,clover,valor calculado (modelo atual),6,0.0010,1.4336,77,21,77,21,56
+Deep-SE,clover,C: quantil 80%,1,0.0010,11.5295,77,21,6,4,2
+Deep-SE,clover,C: quantil 80%,2,0.0010,1.5934,77,21,77,21,56
+Deep-SE,clover,C: quantil 80%,3,0.0010,-1.3857,77,21,77,21,56
+Deep-SE,clover,C: quantil 80%,4,0.0010,-1.3857,77,21,77,21,56
+Deep-SE,clover,C: quantil 80%,6,0.0010,-1.3857,77,21,77,21,56
+Deep-SE,clover,D: classificador,1,0.0010,0.4387,77,21,36,16,20
+Deep-SE,clover,D: classificador,2,0.0010,0.3282,77,21,74,21,53
+Deep-SE,clover,D: classificador,3,0.0010,0.3070,77,21,76,21,55
+Deep-SE,clover,D: classificador,4,0.0010,0.3070,77,21,76,21,55
+Deep-SE,clover,D: classificador,6,0.0010,0.3070,77,21,76,21,55
+Deep-SE,datamanagement,valor calculado (modelo atual),1,0.0003,4.9807,934,286,380,169,211
+Deep-SE,datamanagement,valor calculado (modelo atual),2,0.0003,2.7963,934,286,775,264,511
+Deep-SE,datamanagement,valor calculado (modelo atual),3,0.0003,1.0000,934,286,934,286,648
+Deep-SE,datamanagement,valor calculado (modelo atual),4,0.0003,1.0000,934,286,934,286,648
+Deep-SE,datamanagement,valor calculado (modelo atual),6,0.0003,1.0000,934,286,934,286,648
+Deep-SE,datamanagement,C: quantil 80%,1,0.0003,10.3009,934,286,269,144,125
+Deep-SE,datamanagement,C: quantil 80%,2,0.0003,5.6350,934,286,768,265,503
+Deep-SE,datamanagement,C: quantil 80%,3,0.0003,-3.0827,934,286,934,286,648
+Deep-SE,datamanagement,C: quantil 80%,4,0.0003,-3.0827,934,286,934,286,648
+Deep-SE,datamanagement,C: quantil 80%,6,0.0003,-3.0827,934,286,934,286,648
+Deep-SE,datamanagement,D: classificador,1,0.0003,0.4854,934,286,371,165,206
+Deep-SE,datamanagement,D: classificador,2,0.0003,0.2781,934,286,761,262,499
+Deep-SE,datamanagement,D: classificador,3,0.0003,0.0731,934,286,933,286,647
+Deep-SE,datamanagement,D: classificador,4,0.0003,0.0731,934,286,933,286,647
+Deep-SE,datamanagement,D: classificador,6,0.0003,0.0731,934,286,933,286,647
+Deep-SE,duracloud,valor calculado (modelo atual),1,0.0010,2.5023,134,25,13,5,8
+Deep-SE,duracloud,valor calculado (modelo atual),2,0.0010,1.7899,134,25,58,12,46
+Deep-SE,duracloud,valor calculado (modelo atual),3,0.0010,1.3723,134,25,100,20,80
+Deep-SE,duracloud,valor calculado (modelo atual),4,0.0010,1.0215,134,25,127,24,103
+Deep-SE,duracloud,valor calculado (modelo atual),6,0.0010,1.0000,134,25,134,25,109
+Deep-SE,duracloud,C: quantil 80%,1,0.0010,4.8770,134,25,5,2,3
+Deep-SE,duracloud,C: quantil 80%,2,0.0010,2.9719,134,25,38,14,24
+Deep-SE,duracloud,C: quantil 80%,3,0.0010,1.9625,134,25,127,25,102
+Deep-SE,duracloud,C: quantil 80%,4,0.0010,1.0159,134,25,134,25,109
+Deep-SE,duracloud,C: quantil 80%,6,0.0010,0.7551,134,25,134,25,109
+Deep-SE,duracloud,D: classificador,1,0.0010,0.5419,134,25,23,6,17
+Deep-SE,duracloud,D: classificador,2,0.0010,0.4476,134,25,51,14,37
+Deep-SE,duracloud,D: classificador,3,0.0010,0.3710,134,25,100,23,77
+Deep-SE,duracloud,D: classificador,4,0.0010,0.2569,134,25,130,25,105
+Deep-SE,duracloud,D: classificador,6,0.0010,0.2101,134,25,133,25,108
+Deep-SE,jirasoftware,valor calculado (modelo atual),1,0.0010,inf,71,6,0,0,0
+Deep-SE,jirasoftware,valor calculado (modelo atual),2,0.0010,5.4214,71,6,0,0,0
+Deep-SE,jirasoftware,valor calculado (modelo atual),3,0.0010,5.1198,71,6,0,0,0
+Deep-SE,jirasoftware,valor calculado (modelo atual),4,0.0010,4.6241,71,6,4,0,4
+Deep-SE,jirasoftware,valor calculado (modelo atual),6,0.0010,3.5640,71,6,43,5,38
+Deep-SE,jirasoftware,C: quantil 80%,1,0.0010,10.5640,71,6,2,0,2
+Deep-SE,jirasoftware,C: quantil 80%,2,0.0010,7.5304,71,6,11,2,9
+Deep-SE,jirasoftware,C: quantil 80%,3,0.0010,6.6206,71,6,14,2,12
+Deep-SE,jirasoftware,C: quantil 80%,4,0.0010,6.2319,71,6,20,2,18
+Deep-SE,jirasoftware,C: quantil 80%,6,0.0010,5.0797,71,6,32,6,26
+Deep-SE,jirasoftware,D: classificador,1,0.0010,0.5954,71,6,0,0,0
+Deep-SE,jirasoftware,D: classificador,2,0.0010,0.5599,71,6,0,0,0
+Deep-SE,jirasoftware,D: classificador,3,0.0010,0.5366,71,6,0,0,0
+Deep-SE,jirasoftware,D: classificador,4,0.0010,0.5191,71,6,1,0,1
+Deep-SE,jirasoftware,D: classificador,6,0.0010,0.3381,71,6,38,5,33
+Deep-SE,mesos,valor calculado (modelo atual),1,0.0010,inf,336,10,0,0,0
+Deep-SE,mesos,valor calculado (modelo atual),2,0.0010,4.1827,336,10,4,0,4
+Deep-SE,mesos,valor calculado (modelo atual),3,0.0010,4.0581,336,10,7,0,7
+Deep-SE,mesos,valor calculado (modelo atual),4,0.0010,3.5448,336,10,30,1,29
+Deep-SE,mesos,valor calculado (modelo atual),6,0.0010,3.2452,336,10,54,3,51
+Deep-SE,mesos,C: quantil 80%,1,0.0010,inf,336,10,0,0,0
+Deep-SE,mesos,C: quantil 80%,2,0.0010,inf,336,10,0,0,0
+Deep-SE,mesos,C: quantil 80%,3,0.0010,inf,336,10,0,0,0
+Deep-SE,mesos,C: quantil 80%,4,0.0010,inf,336,10,0,0,0
+Deep-SE,mesos,C: quantil 80%,6,0.0010,5.1977,336,10,20,1,19
+Deep-SE,mesos,D: classificador,1,0.0010,inf,336,10,0,0,0
+Deep-SE,mesos,D: classificador,2,0.0010,inf,336,10,0,0,0
+Deep-SE,mesos,D: classificador,3,0.0010,0.5459,336,10,21,1,20
+Deep-SE,mesos,D: classificador,4,0.0010,0.4797,336,10,37,1,36
+Deep-SE,mesos,D: classificador,6,0.0010,0.4037,336,10,80,2,78
+Deep-SE,moodle,valor calculado (modelo atual),1,0.0010,10.1108,234,32,67,17,50
+Deep-SE,moodle,valor calculado (modelo atual),2,0.0010,8.6385,234,32,160,27,133
+Deep-SE,moodle,valor calculado (modelo atual),3,0.0010,5.5954,234,32,234,32,202
+Deep-SE,moodle,valor calculado (modelo atual),4,0.0010,5.5954,234,32,234,32,202
+Deep-SE,moodle,valor calculado (modelo atual),6,0.0010,5.5954,234,32,234,32,202
+Deep-SE,moodle,C: quantil 80%,1,0.0010,inf,234,32,0,0,0
+Deep-SE,moodle,C: quantil 80%,2,0.0010,20.6111,234,32,80,13,67
+Deep-SE,moodle,C: quantil 80%,3,0.0010,5.2428,234,32,234,32,202
+Deep-SE,moodle,C: quantil 80%,4,0.0010,5.2428,234,32,234,32,202
+Deep-SE,moodle,C: quantil 80%,6,0.0010,5.2428,234,32,234,32,202
+Deep-SE,moodle,D: classificador,1,0.0010,0.5119,234,32,67,17,50
+Deep-SE,moodle,D: classificador,2,0.0010,0.3958,234,32,182,30,152
+Deep-SE,moodle,D: classificador,3,0.0010,0.1909,234,32,234,32,202
+Deep-SE,moodle,D: classificador,4,0.0010,0.1909,234,32,234,32,202
+Deep-SE,moodle,D: classificador,6,0.0010,0.1909,234,32,234,32,202
+Deep-SE,mule,valor calculado (modelo atual),1,0.0010,inf,178,8,0,0,0
+Deep-SE,mule,valor calculado (modelo atual),2,0.0010,inf,178,8,0,0,0
+Deep-SE,mule,valor calculado (modelo atual),3,0.0010,inf,178,8,0,0,0
+Deep-SE,mule,valor calculado (modelo atual),4,0.0010,inf,178,8,0,0,0
+Deep-SE,mule,valor calculado (modelo atual),6,0.0010,5.2623,178,8,42,3,39
+Deep-SE,mule,C: quantil 80%,1,0.0010,10.5738,178,8,0,0,0
+Deep-SE,mule,C: quantil 80%,2,0.0010,10.3712,178,8,0,0,0
+Deep-SE,mule,C: quantil 80%,3,0.0010,10.1191,178,8,0,0,0
+Deep-SE,mule,C: quantil 80%,4,0.0010,9.8587,178,8,0,0,0
+Deep-SE,mule,C: quantil 80%,6,0.0010,9.5237,178,8,0,0,0
+Deep-SE,mule,D: classificador,1,0.0010,inf,178,8,0,0,0
+Deep-SE,mule,D: classificador,2,0.0010,0.5522,178,8,5,1,4
+Deep-SE,mule,D: classificador,3,0.0010,0.5173,178,8,7,2,5
+Deep-SE,mule,D: classificador,4,0.0010,0.4367,178,8,16,2,14
+Deep-SE,mule,D: classificador,6,0.0010,0.3618,178,8,36,4,32
+Deep-SE,mulestudio,valor calculado (modelo atual),1,0.0010,inf,147,30,0,0,0
+Deep-SE,mulestudio,valor calculado (modelo atual),2,0.0010,inf,147,30,0,0,0
+Deep-SE,mulestudio,valor calculado (modelo atual),3,0.0010,inf,147,30,0,0,0
+Deep-SE,mulestudio,valor calculado (modelo atual),4,0.0010,inf,147,30,0,0,0
+Deep-SE,mulestudio,valor calculado (modelo atual),6,0.0010,2.6432,147,30,147,30,117
+Deep-SE,mulestudio,C: quantil 80%,1,0.0010,inf,147,30,0,0,0
+Deep-SE,mulestudio,C: quantil 80%,2,0.0010,inf,147,30,0,0,0
+Deep-SE,mulestudio,C: quantil 80%,3,0.0010,inf,147,30,0,0,0
+Deep-SE,mulestudio,C: quantil 80%,4,0.0010,15.2672,147,30,1,0,1
+Deep-SE,mulestudio,C: quantil 80%,6,0.0010,3.3331,147,30,147,30,117
+Deep-SE,mulestudio,D: classificador,1,0.0010,inf,147,30,0,0,0
+Deep-SE,mulestudio,D: classificador,2,0.0010,inf,147,30,0,0,0
+Deep-SE,mulestudio,D: classificador,3,0.0010,inf,147,30,0,0,0
+Deep-SE,mulestudio,D: classificador,4,0.0010,0.4540,147,30,30,6,24
+Deep-SE,mulestudio,D: classificador,6,0.0010,0.1845,147,30,145,30,115
+Deep-SE,springxd,valor calculado (modelo atual),1,0.0010,5.1467,706,83,68,30,38
+Deep-SE,springxd,valor calculado (modelo atual),2,0.0010,4.2379,706,83,192,51,141
+Deep-SE,springxd,valor calculado (modelo atual),3,0.0010,3.6783,706,83,320,64,256
+Deep-SE,springxd,valor calculado (modelo atual),4,0.0010,2.9273,706,83,500,78,422
+Deep-SE,springxd,valor calculado (modelo atual),6,0.0010,1.0000,706,83,706,83,623
+Deep-SE,springxd,C: quantil 80%,1,0.0010,8.2273,706,83,56,20,36
+Deep-SE,springxd,C: quantil 80%,2,0.0010,6.1774,706,83,305,61,244
+Deep-SE,springxd,C: quantil 80%,3,0.0010,5.2647,706,83,428,71,357
+Deep-SE,springxd,C: quantil 80%,4,0.0010,5.0068,706,83,469,72,397
+Deep-SE,springxd,C: quantil 80%,6,0.0010,1.6133,706,83,704,83,621
+Deep-SE,springxd,D: classificador,1,0.0010,0.7204,706,83,77,29,48
+Deep-SE,springxd,D: classificador,2,0.0010,0.5382,706,83,234,53,181
+Deep-SE,springxd,D: classificador,3,0.0010,0.3889,706,83,384,70,314
+Deep-SE,springxd,D: classificador,4,0.0010,0.3006,706,83,494,77,417
+Deep-SE,springxd,D: classificador,6,0.0010,0.0691,706,83,704,83,621
+Deep-SE,talenddataquality,valor calculado (modelo atual),1,0.0010,8.1397,277,16,3,1,2
+Deep-SE,talenddataquality,valor calculado (modelo atual),2,0.0010,6.6158,277,16,37,5,32
+Deep-SE,talenddataquality,valor calculado (modelo atual),3,0.0010,5.9715,277,16,91,9,82
+Deep-SE,talenddataquality,valor calculado (modelo atual),4,0.0010,4.9497,277,16,160,14,146
+Deep-SE,talenddataquality,valor calculado (modelo atual),6,0.0010,1.7242,277,16,277,16,261
+Deep-SE,talenddataquality,C: quantil 80%,1,0.0010,inf,277,16,0,0,0
+Deep-SE,talenddataquality,C: quantil 80%,2,0.0010,11.5833,277,16,17,4,13
+Deep-SE,talenddataquality,C: quantil 80%,3,0.0010,9.3657,277,16,54,6,48
+Deep-SE,talenddataquality,C: quantil 80%,4,0.0010,8.0610,277,16,92,7,85
+Deep-SE,talenddataquality,C: quantil 80%,6,0.0010,0.3852,277,16,277,16,261
+Deep-SE,talenddataquality,D: classificador,1,0.0010,0.5840,277,16,19,3,16
+Deep-SE,talenddataquality,D: classificador,2,0.0010,0.4971,277,16,58,7,51
+Deep-SE,talenddataquality,D: classificador,3,0.0010,0.4221,277,16,104,12,92
+Deep-SE,talenddataquality,D: classificador,4,0.0010,0.3268,277,16,170,14,156
+Deep-SE,talenddataquality,D: classificador,6,0.0010,0.0940,277,16,272,16,256
+Deep-SE,talendesb,valor calculado (modelo atual),1,0.0010,inf,174,14,0,0,0
+Deep-SE,talendesb,valor calculado (modelo atual),2,0.0010,2.9862,174,14,5,3,2
+Deep-SE,talendesb,valor calculado (modelo atual),3,0.0010,2.7371,174,14,13,3,10
+Deep-SE,talendesb,valor calculado (modelo atual),4,0.0010,2.4477,174,14,34,6,28
+Deep-SE,talendesb,valor calculado (modelo atual),6,0.0010,2.0750,174,14,75,11,64
+Deep-SE,talendesb,C: quantil 80%,1,0.0010,inf,174,14,0,0,0
+Deep-SE,talendesb,C: quantil 80%,2,0.0010,inf,174,14,0,0,0
+Deep-SE,talendesb,C: quantil 80%,3,0.0010,inf,174,14,0,0,0
+Deep-SE,talendesb,C: quantil 80%,4,0.0010,inf,174,14,0,0,0
+Deep-SE,talendesb,C: quantil 80%,6,0.0010,inf,174,14,0,0,0
+Deep-SE,talendesb,D: classificador,1,0.0010,inf,174,14,0,0,0
+Deep-SE,talendesb,D: classificador,2,0.0010,inf,174,14,0,0,0
+Deep-SE,talendesb,D: classificador,3,0.0010,0.5651,174,14,2,0,2
+Deep-SE,talendesb,D: classificador,4,0.0010,0.5478,174,14,4,1,3
+Deep-SE,talendesb,D: classificador,6,0.0010,0.3834,174,14,62,10,52
+Deep-SE,titanium,valor calculado (modelo atual),1,0.0010,9.4476,451,30,2,0,2
+Deep-SE,titanium,valor calculado (modelo atual),2,0.0010,7.4790,451,30,13,1,12
+Deep-SE,titanium,valor calculado (modelo atual),3,0.0010,6.4875,451,30,35,2,33
+Deep-SE,titanium,valor calculado (modelo atual),4,0.0010,5.9948,451,30,65,6,59
+Deep-SE,titanium,valor calculado (modelo atual),6,0.0010,4.3424,451,30,316,26,290
+Deep-SE,titanium,C: quantil 80%,1,0.0010,inf,451,30,0,0,0
+Deep-SE,titanium,C: quantil 80%,2,0.0010,11.4656,451,30,18,1,17
+Deep-SE,titanium,C: quantil 80%,3,0.0010,10.1829,451,30,32,2,30
+Deep-SE,titanium,C: quantil 80%,4,0.0010,8.5008,451,30,153,12,141
+Deep-SE,titanium,C: quantil 80%,6,0.0010,8.1149,451,30,162,12,150
+Deep-SE,titanium,D: classificador,1,0.0010,0.7570,451,30,1,0,1
+Deep-SE,titanium,D: classificador,2,0.0010,0.5794,451,30,22,1,21
+Deep-SE,titanium,D: classificador,3,0.0010,0.4414,451,30,82,8,74
+Deep-SE,titanium,D: classificador,4,0.0010,0.3762,451,30,137,15,122
+Deep-SE,titanium,D: classificador,6,0.0010,0.2505,451,30,296,24,272
+Deep-SE,usergrid,valor calculado (modelo atual),1,0.0010,inf,97,4,0,0,0
+Deep-SE,usergrid,valor calculado (modelo atual),2,0.0010,inf,97,4,0,0,0
+Deep-SE,usergrid,valor calculado (modelo atual),3,0.0010,inf,97,4,0,0,0
+Deep-SE,usergrid,valor calculado (modelo atual),4,0.0010,inf,97,4,0,0,0
+Deep-SE,usergrid,valor calculado (modelo atual),6,0.0010,inf,97,4,0,0,0
+Deep-SE,usergrid,C: quantil 80%,1,0.0010,inf,97,4,0,0,0
+Deep-SE,usergrid,C: quantil 80%,2,0.0010,inf,97,4,0,0,0
+Deep-SE,usergrid,C: quantil 80%,3,0.0010,inf,97,4,0,0,0
+Deep-SE,usergrid,C: quantil 80%,4,0.0010,inf,97,4,0,0,0
+Deep-SE,usergrid,C: quantil 80%,6,0.0010,inf,97,4,0,0,0
+Deep-SE,usergrid,D: classificador,1,0.0010,inf,97,4,0,0,0
+Deep-SE,usergrid,D: classificador,2,0.0010,inf,97,4,0,0,0
+Deep-SE,usergrid,D: classificador,3,0.0010,inf,97,4,0,0,0
+Deep-SE,usergrid,D: classificador,4,0.0010,inf,97,4,0,0,0
+Deep-SE,usergrid,D: classificador,6,0.0010,inf,97,4,0,0,0
+TAWOS,ALOY,valor calculado (modelo atual),1,0.0010,inf,49,3,0,0,0
+TAWOS,ALOY,valor calculado (modelo atual),2,0.0010,inf,49,3,0,0,0
+TAWOS,ALOY,valor calculado (modelo atual),3,0.0010,inf,49,3,0,0,0
+TAWOS,ALOY,valor calculado (modelo atual),4,0.0010,inf,49,3,0,0,0
+TAWOS,ALOY,valor calculado (modelo atual),6,0.0010,3.8938,49,3,12,1,11
+TAWOS,ALOY,C: quantil 80%,1,0.0010,inf,49,3,0,0,0
+TAWOS,ALOY,C: quantil 80%,2,0.0010,inf,49,3,0,0,0
+TAWOS,ALOY,C: quantil 80%,3,0.0010,inf,49,3,0,0,0
+TAWOS,ALOY,C: quantil 80%,4,0.0010,8.0343,49,3,1,0,1
+TAWOS,ALOY,C: quantil 80%,6,0.0010,7.8781,49,3,1,0,1
+TAWOS,ALOY,D: classificador,1,0.0010,inf,49,3,0,0,0
+TAWOS,ALOY,D: classificador,2,0.0010,0.4489,49,3,7,0,7
+TAWOS,ALOY,D: classificador,3,0.0010,0.4407,49,3,7,0,7
+TAWOS,ALOY,D: classificador,4,0.0010,0.3985,49,3,11,0,11
+TAWOS,ALOY,D: classificador,6,0.0010,0.3631,49,3,21,1,20
+TAWOS,APSTUD,valor calculado (modelo atual),1,0.0010,inf,96,4,0,0,0
+TAWOS,APSTUD,valor calculado (modelo atual),2,0.0010,inf,96,4,0,0,0
+TAWOS,APSTUD,valor calculado (modelo atual),3,0.0010,inf,96,4,0,0,0
+TAWOS,APSTUD,valor calculado (modelo atual),4,0.0010,7.6293,96,4,21,0,21
+TAWOS,APSTUD,valor calculado (modelo atual),6,0.0010,7.5084,96,4,29,0,29
+TAWOS,APSTUD,C: quantil 80%,1,0.0010,inf,96,4,0,0,0
+TAWOS,APSTUD,C: quantil 80%,2,0.0010,inf,96,4,0,0,0
+TAWOS,APSTUD,C: quantil 80%,3,0.0010,inf,96,4,0,0,0
+TAWOS,APSTUD,C: quantil 80%,4,0.0010,inf,96,4,0,0,0
+TAWOS,APSTUD,C: quantil 80%,6,0.0010,inf,96,4,0,0,0
+TAWOS,APSTUD,D: classificador,1,0.0010,inf,96,4,0,0,0
+TAWOS,APSTUD,D: classificador,2,0.0010,inf,96,4,0,0,0
+TAWOS,APSTUD,D: classificador,3,0.0010,inf,96,4,0,0,0
+TAWOS,APSTUD,D: classificador,4,0.0010,inf,96,4,0,0,0
+TAWOS,APSTUD,D: classificador,6,0.0010,0.3279,96,4,6,0,6
+TAWOS,CLI,valor calculado (modelo atual),1,0.0010,inf,59,3,0,0,0
+TAWOS,CLI,valor calculado (modelo atual),2,0.0010,inf,59,3,0,0,0
+TAWOS,CLI,valor calculado (modelo atual),3,0.0010,inf,59,3,0,0,0
+TAWOS,CLI,valor calculado (modelo atual),4,0.0010,inf,59,3,0,0,0
+TAWOS,CLI,valor calculado (modelo atual),6,0.0010,inf,59,3,0,0,0
+TAWOS,CLI,C: quantil 80%,1,0.0010,inf,59,3,0,0,0
+TAWOS,CLI,C: quantil 80%,2,0.0010,inf,59,3,0,0,0
+TAWOS,CLI,C: quantil 80%,3,0.0010,inf,59,3,0,0,0
+TAWOS,CLI,C: quantil 80%,4,0.0010,inf,59,3,0,0,0
+TAWOS,CLI,C: quantil 80%,6,0.0010,inf,59,3,0,0,0
+TAWOS,CLI,D: classificador,1,0.0010,inf,59,3,0,0,0
+TAWOS,CLI,D: classificador,2,0.0010,inf,59,3,0,0,0
+TAWOS,CLI,D: classificador,3,0.0010,inf,59,3,0,0,0
+TAWOS,CLI,D: classificador,4,0.0010,inf,59,3,0,0,0
+TAWOS,CLI,D: classificador,6,0.0010,inf,59,3,0,0,0
+TAWOS,CLOV,valor calculado (modelo atual),1,0.0010,inf,68,18,0,0,0
+TAWOS,CLOV,valor calculado (modelo atual),2,0.0010,2.0502,68,18,57,16,41
+TAWOS,CLOV,valor calculado (modelo atual),3,0.0010,1.2872,68,18,68,18,50
+TAWOS,CLOV,valor calculado (modelo atual),4,0.0010,1.2872,68,18,68,18,50
+TAWOS,CLOV,valor calculado (modelo atual),6,0.0010,1.2872,68,18,68,18,50
+TAWOS,CLOV,C: quantil 80%,1,0.0010,6.9868,68,18,16,6,10
+TAWOS,CLOV,C: quantil 80%,2,0.0010,1.9575,68,18,64,18,46
+TAWOS,CLOV,C: quantil 80%,3,0.0010,0.7202,68,18,68,18,50
+TAWOS,CLOV,C: quantil 80%,4,0.0010,0.7202,68,18,68,18,50
+TAWOS,CLOV,C: quantil 80%,6,0.0010,0.7202,68,18,68,18,50
+TAWOS,CLOV,D: classificador,1,0.0010,0.5957,68,18,1,1,0
+TAWOS,CLOV,D: classificador,2,0.0010,0.3679,68,18,58,17,41
+TAWOS,CLOV,D: classificador,3,0.0010,0.2751,68,18,68,18,50
+TAWOS,CLOV,D: classificador,4,0.0010,0.2751,68,18,68,18,50
+TAWOS,CLOV,D: classificador,6,0.0010,0.2751,68,18,68,18,50
+TAWOS,COMPASS,valor calculado (modelo atual),1,0.0010,3.7304,52,3,10,1,9
+TAWOS,COMPASS,valor calculado (modelo atual),2,0.0010,3.5251,52,3,19,2,17
+TAWOS,COMPASS,valor calculado (modelo atual),3,0.0010,3.4795,52,3,22,2,20
+TAWOS,COMPASS,valor calculado (modelo atual),4,0.0010,3.3028,52,3,28,2,26
+TAWOS,COMPASS,valor calculado (modelo atual),6,0.0010,2.9947,52,3,42,3,39
+TAWOS,COMPASS,C: quantil 80%,1,0.0010,inf,52,3,0,0,0
+TAWOS,COMPASS,C: quantil 80%,2,0.0010,inf,52,3,0,0,0
+TAWOS,COMPASS,C: quantil 80%,3,0.0010,4.5469,52,3,14,1,13
+TAWOS,COMPASS,C: quantil 80%,4,0.0010,3.7900,52,3,18,2,16
+TAWOS,COMPASS,C: quantil 80%,6,0.0010,2.9971,52,3,48,3,45
+TAWOS,COMPASS,D: classificador,1,0.0010,inf,52,3,0,0,0
+TAWOS,COMPASS,D: classificador,2,0.0010,0.3276,52,3,6,1,5
+TAWOS,COMPASS,D: classificador,3,0.0010,0.2995,52,3,11,2,9
+TAWOS,COMPASS,D: classificador,4,0.0010,0.2765,52,3,16,2,14
+TAWOS,COMPASS,D: classificador,6,0.0010,0.2302,52,3,29,2,27
+TAWOS,CONFCLOUD,valor calculado (modelo atual),1,0.0010,inf,47,7,0,0,0
+TAWOS,CONFCLOUD,valor calculado (modelo atual),2,0.0010,inf,47,7,0,0,0
+TAWOS,CONFCLOUD,valor calculado (modelo atual),3,0.0010,inf,47,7,0,0,0
+TAWOS,CONFCLOUD,valor calculado (modelo atual),4,0.0010,inf,47,7,0,0,0
+TAWOS,CONFCLOUD,valor calculado (modelo atual),6,0.0010,2.2541,47,7,29,4,25
+TAWOS,CONFCLOUD,C: quantil 80%,1,0.0010,inf,47,7,0,0,0
+TAWOS,CONFCLOUD,C: quantil 80%,2,0.0010,inf,47,7,0,0,0
+TAWOS,CONFCLOUD,C: quantil 80%,3,0.0010,inf,47,7,0,0,0
+TAWOS,CONFCLOUD,C: quantil 80%,4,0.0010,3.2560,47,7,9,2,7
+TAWOS,CONFCLOUD,C: quantil 80%,6,0.0010,2.2986,47,7,44,6,38
+TAWOS,CONFCLOUD,D: classificador,1,0.0010,inf,47,7,0,0,0
+TAWOS,CONFCLOUD,D: classificador,2,0.0010,inf,47,7,0,0,0
+TAWOS,CONFCLOUD,D: classificador,3,0.0010,inf,47,7,0,0,0
+TAWOS,CONFCLOUD,D: classificador,4,0.0010,0.2692,47,7,36,5,31
+TAWOS,CONFCLOUD,D: classificador,6,0.0010,0.2406,47,7,41,6,35
+TAWOS,CONFSERVER,valor calculado (modelo atual),1,0.0010,inf,92,1,0,0,0
+TAWOS,CONFSERVER,valor calculado (modelo atual),2,0.0010,inf,92,1,0,0,0
+TAWOS,CONFSERVER,valor calculado (modelo atual),3,0.0010,inf,92,1,0,0,0
+TAWOS,CONFSERVER,valor calculado (modelo atual),4,0.0010,inf,92,1,0,0,0
+TAWOS,CONFSERVER,valor calculado (modelo atual),6,0.0010,inf,92,1,0,0,0
+TAWOS,CONFSERVER,C: quantil 80%,1,0.0010,inf,92,1,0,0,0
+TAWOS,CONFSERVER,C: quantil 80%,2,0.0010,inf,92,1,0,0,0
+TAWOS,CONFSERVER,C: quantil 80%,3,0.0010,inf,92,1,0,0,0
+TAWOS,CONFSERVER,C: quantil 80%,4,0.0010,inf,92,1,0,0,0
+TAWOS,CONFSERVER,C: quantil 80%,6,0.0010,inf,92,1,0,0,0
+TAWOS,CONFSERVER,D: classificador,1,0.0010,inf,92,1,0,0,0
+TAWOS,CONFSERVER,D: classificador,2,0.0010,inf,92,1,0,0,0
+TAWOS,CONFSERVER,D: classificador,3,0.0010,inf,92,1,0,0,0
+TAWOS,CONFSERVER,D: classificador,4,0.0010,inf,92,1,0,0,0
+TAWOS,CONFSERVER,D: classificador,6,0.0010,inf,92,1,0,0,0
+TAWOS,DAEMON,valor calculado (modelo atual),1,0.0003,inf,41,5,0,0,0
+TAWOS,DAEMON,valor calculado (modelo atual),2,0.0003,inf,41,5,0,0,0
+TAWOS,DAEMON,valor calculado (modelo atual),3,0.0003,5.1470,41,5,8,3,5
+TAWOS,DAEMON,valor calculado (modelo atual),4,0.0003,5.1415,41,5,8,3,5
+TAWOS,DAEMON,valor calculado (modelo atual),6,0.0003,5.0754,41,5,11,3,8
+TAWOS,DAEMON,C: quantil 80%,1,0.0003,inf,41,5,0,0,0
+TAWOS,DAEMON,C: quantil 80%,2,0.0003,inf,41,5,0,0,0
+TAWOS,DAEMON,C: quantil 80%,3,0.0003,inf,41,5,0,0,0
+TAWOS,DAEMON,C: quantil 80%,4,0.0003,inf,41,5,0,0,0
+TAWOS,DAEMON,C: quantil 80%,6,0.0003,6.7154,41,5,11,2,9
+TAWOS,DAEMON,D: classificador,1,0.0003,inf,41,5,0,0,0
+TAWOS,DAEMON,D: classificador,2,0.0003,inf,41,5,0,0,0
+TAWOS,DAEMON,D: classificador,3,0.0003,inf,41,5,0,0,0
+TAWOS,DAEMON,D: classificador,4,0.0003,0.4454,41,5,12,3,9
+TAWOS,DAEMON,D: classificador,6,0.0003,0.4181,41,5,18,3,15
+TAWOS,DM,valor calculado (modelo atual),1,0.0003,3.3994,1077,87,30,19,11
+TAWOS,DM,valor calculado (modelo atual),2,0.0003,2.3671,1077,87,213,52,161
+TAWOS,DM,valor calculado (modelo atual),3,0.0003,1.9008,1077,87,424,64,360
+TAWOS,DM,valor calculado (modelo atual),4,0.0003,1.4571,1077,87,663,80,583
+TAWOS,DM,valor calculado (modelo atual),6,0.0003,0.0000,1077,87,1077,87,990
+TAWOS,DM,C: quantil 80%,1,0.0003,10.0421,1077,87,12,10,2
+TAWOS,DM,C: quantil 80%,2,0.0003,5.2176,1077,87,77,25,52
+TAWOS,DM,C: quantil 80%,3,0.0003,3.0393,1077,87,414,46,368
+TAWOS,DM,C: quantil 80%,4,0.0003,2.2886,1077,87,790,80,710
+TAWOS,DM,C: quantil 80%,6,0.0003,-0.0257,1077,87,1077,87,990
+TAWOS,DM,D: classificador,1,0.0003,0.6387,1077,87,73,30,43
+TAWOS,DM,D: classificador,2,0.0003,0.4828,1077,87,191,41,150
+TAWOS,DM,D: classificador,3,0.0003,0.3859,1077,87,360,67,293
+TAWOS,DM,D: classificador,4,0.0003,0.2880,1077,87,563,72,491
+TAWOS,DM,D: classificador,6,0.0003,0.0584,1077,87,1073,87,986
+TAWOS,DNN,valor calculado (modelo atual),1,0.0010,inf,413,12,0,0,0
+TAWOS,DNN,valor calculado (modelo atual),2,0.0010,2.8118,413,12,3,0,3
+TAWOS,DNN,valor calculado (modelo atual),3,0.0010,2.5857,413,12,11,1,10
+TAWOS,DNN,valor calculado (modelo atual),4,0.0010,2.4596,413,12,23,4,19
+TAWOS,DNN,valor calculado (modelo atual),6,0.0010,2.0777,413,12,99,8,91
+TAWOS,DNN,C: quantil 80%,1,0.0010,inf,413,12,0,0,0
+TAWOS,DNN,C: quantil 80%,2,0.0010,inf,413,12,0,0,0
+TAWOS,DNN,C: quantil 80%,3,0.0010,inf,413,12,0,0,0
+TAWOS,DNN,C: quantil 80%,4,0.0010,5.6590,413,12,0,0,0
+TAWOS,DNN,C: quantil 80%,6,0.0010,2.8394,413,12,56,5,51
+TAWOS,DNN,D: classificador,1,0.0010,inf,413,12,0,0,0
+TAWOS,DNN,D: classificador,2,0.0010,0.5428,413,12,3,0,3
+TAWOS,DNN,D: classificador,3,0.0010,0.4542,413,12,15,1,14
+TAWOS,DNN,D: classificador,4,0.0010,0.4116,413,12,26,3,23
+TAWOS,DNN,D: classificador,6,0.0010,0.3287,413,12,56,3,53
+TAWOS,DURACLOUD,valor calculado (modelo atual),1,0.0010,inf,62,9,0,0,0
+TAWOS,DURACLOUD,valor calculado (modelo atual),2,0.0010,inf,62,9,0,0,0
+TAWOS,DURACLOUD,valor calculado (modelo atual),3,0.0010,1.7242,62,9,15,3,12
+TAWOS,DURACLOUD,valor calculado (modelo atual),4,0.0010,1.5519,62,9,24,4,20
+TAWOS,DURACLOUD,valor calculado (modelo atual),6,0.0010,0.5610,62,9,62,9,53
+TAWOS,DURACLOUD,C: quantil 80%,1,0.0010,4.0142,62,9,10,3,7
+TAWOS,DURACLOUD,C: quantil 80%,2,0.0010,3.2553,62,9,18,3,15
+TAWOS,DURACLOUD,C: quantil 80%,3,0.0010,2.7672,62,9,25,5,20
+TAWOS,DURACLOUD,C: quantil 80%,4,0.0010,1.9936,62,9,32,6,26
+TAWOS,DURACLOUD,C: quantil 80%,6,0.0010,0.0039,62,9,62,9,53
+TAWOS,DURACLOUD,D: classificador,1,0.0010,inf,62,9,0,0,0
+TAWOS,DURACLOUD,D: classificador,2,0.0010,0.5292,62,9,6,1,5
+TAWOS,DURACLOUD,D: classificador,3,0.0010,0.4583,62,9,14,1,13
+TAWOS,DURACLOUD,D: classificador,4,0.0010,0.3525,62,9,29,5,24
+TAWOS,DURACLOUD,D: classificador,6,0.0010,0.2223,62,9,61,9,52
+TAWOS,EVG,valor calculado (modelo atual),1,0.0010,inf,565,17,0,0,0
+TAWOS,EVG,valor calculado (modelo atual),2,0.0010,inf,565,17,0,0,0
+TAWOS,EVG,valor calculado (modelo atual),3,0.0010,inf,565,17,0,0,0
+TAWOS,EVG,valor calculado (modelo atual),4,0.0010,inf,565,17,0,0,0
+TAWOS,EVG,valor calculado (modelo atual),6,0.0010,inf,565,17,0,0,0
+TAWOS,EVG,C: quantil 80%,1,0.0010,inf,565,17,0,0,0
+TAWOS,EVG,C: quantil 80%,2,0.0010,inf,565,17,0,0,0
+TAWOS,EVG,C: quantil 80%,3,0.0010,inf,565,17,0,0,0
+TAWOS,EVG,C: quantil 80%,4,0.0010,inf,565,17,0,0,0
+TAWOS,EVG,C: quantil 80%,6,0.0010,inf,565,17,0,0,0
+TAWOS,EVG,D: classificador,1,0.0010,inf,565,17,0,0,0
+TAWOS,EVG,D: classificador,2,0.0010,inf,565,17,0,0,0
+TAWOS,EVG,D: classificador,3,0.0010,inf,565,17,0,0,0
+TAWOS,EVG,D: classificador,4,0.0010,inf,565,17,0,0,0
+TAWOS,EVG,D: classificador,6,0.0010,0.3783,565,17,23,7,16
+TAWOS,FAB,valor calculado (modelo atual),1,0.0003,inf,61,2,0,0,0
+TAWOS,FAB,valor calculado (modelo atual),2,0.0003,2.9043,61,2,2,0,2
+TAWOS,FAB,valor calculado (modelo atual),3,0.0003,2.6480,61,2,11,1,10
+TAWOS,FAB,valor calculado (modelo atual),4,0.0003,2.5009,61,2,16,1,15
+TAWOS,FAB,valor calculado (modelo atual),6,0.0003,2.0983,61,2,32,2,30
+TAWOS,FAB,C: quantil 80%,1,0.0003,inf,61,2,0,0,0
+TAWOS,FAB,C: quantil 80%,2,0.0003,6.9878,61,2,1,0,1
+TAWOS,FAB,C: quantil 80%,3,0.0003,4.2838,61,2,6,0,6
+TAWOS,FAB,C: quantil 80%,4,0.0003,2.4873,61,2,32,2,30
+TAWOS,FAB,C: quantil 80%,6,0.0003,1.6206,61,2,46,2,44
+TAWOS,FAB,D: classificador,1,0.0003,0.5998,61,2,0,0,0
+TAWOS,FAB,D: classificador,2,0.0003,0.5732,61,2,1,0,1
+TAWOS,FAB,D: classificador,3,0.0003,0.4715,61,2,15,0,15
+TAWOS,FAB,D: classificador,4,0.0003,0.4603,61,2,18,1,17
+TAWOS,FAB,D: classificador,6,0.0003,0.4368,61,2,25,1,24
+TAWOS,MDL,valor calculado (modelo atual),1,0.0010,11.0529,279,0,1,0,1
+TAWOS,MDL,valor calculado (modelo atual),2,0.0010,9.0287,279,0,24,0,24
+TAWOS,MDL,valor calculado (modelo atual),3,0.0010,7.9111,279,0,97,0,97
+TAWOS,MDL,valor calculado (modelo atual),4,0.0010,5.5783,279,0,258,0,258
+TAWOS,MDL,valor calculado (modelo atual),6,0.0010,5.5783,279,0,258,0,258
+TAWOS,MDL,C: quantil 80%,1,0.0010,inf,279,0,0,0,0
+TAWOS,MDL,C: quantil 80%,2,0.0010,20.0346,279,0,4,0,4
+TAWOS,MDL,C: quantil 80%,3,0.0010,20.0346,279,0,4,0,4
+TAWOS,MDL,C: quantil 80%,4,0.0010,5.0710,279,0,279,0,279
+TAWOS,MDL,C: quantil 80%,6,0.0010,5.0710,279,0,279,0,279
+TAWOS,MDL,D: classificador,1,0.0010,0.5834,279,0,21,0,21
+TAWOS,MDL,D: classificador,2,0.0010,0.4607,279,0,105,0,105
+TAWOS,MDL,D: classificador,3,0.0010,0.3724,279,0,196,0,196
+TAWOS,MDL,D: classificador,4,0.0010,0.2262,279,0,278,0,278
+TAWOS,MDL,D: classificador,6,0.0010,0.2262,279,0,278,0,278
+TAWOS,MESOS,valor calculado (modelo atual),1,0.0010,4.1652,303,16,12,3,9
+TAWOS,MESOS,valor calculado (modelo atual),2,0.0010,3.8313,303,16,23,4,19
+TAWOS,MESOS,valor calculado (modelo atual),3,0.0010,3.4867,303,16,43,5,38
+TAWOS,MESOS,valor calculado (modelo atual),4,0.0010,3.3548,303,16,56,5,51
+TAWOS,MESOS,valor calculado (modelo atual),6,0.0010,3.0974,303,16,86,6,80
+TAWOS,MESOS,C: quantil 80%,1,0.0010,inf,303,16,0,0,0
+TAWOS,MESOS,C: quantil 80%,2,0.0010,inf,303,16,0,0,0
+TAWOS,MESOS,C: quantil 80%,3,0.0010,5.7628,303,16,3,0,3
+TAWOS,MESOS,C: quantil 80%,4,0.0010,5.3691,303,16,3,0,3
+TAWOS,MESOS,C: quantil 80%,6,0.0010,4.8682,303,16,173,8,165
+TAWOS,MESOS,D: classificador,1,0.0010,0.6044,303,16,8,1,7
+TAWOS,MESOS,D: classificador,2,0.0010,0.5022,303,16,21,4,17
+TAWOS,MESOS,D: classificador,3,0.0010,0.4807,303,16,23,4,19
+TAWOS,MESOS,D: classificador,4,0.0010,0.4355,303,16,36,4,32
+TAWOS,MESOS,D: classificador,6,0.0010,0.3872,303,16,57,5,52
+TAWOS,MULE,valor calculado (modelo atual),1,0.0010,4.7455,587,103,65,24,41
+TAWOS,MULE,valor calculado (modelo atual),2,0.0010,2.6677,587,103,360,83,277
+TAWOS,MULE,valor calculado (modelo atual),3,0.0010,0.4476,587,103,587,103,484
+TAWOS,MULE,valor calculado (modelo atual),4,0.0010,0.4476,587,103,587,103,484
+TAWOS,MULE,valor calculado (modelo atual),6,0.0010,0.4476,587,103,587,103,484
+TAWOS,MULE,C: quantil 80%,1,0.0010,9.4395,587,103,5,5,0
+TAWOS,MULE,C: quantil 80%,2,0.0010,9.4395,587,103,5,5,0
+TAWOS,MULE,C: quantil 80%,3,0.0010,8.0000,587,103,587,103,484
+TAWOS,MULE,C: quantil 80%,4,0.0010,8.0000,587,103,587,103,484
+TAWOS,MULE,C: quantil 80%,6,0.0010,8.0000,587,103,587,103,484
+TAWOS,MULE,D: classificador,1,0.0010,0.5333,587,103,120,49,71
+TAWOS,MULE,D: classificador,2,0.0010,0.3495,587,103,390,86,304
+TAWOS,MULE,D: classificador,3,0.0010,0.1417,587,103,587,103,484
+TAWOS,MULE,D: classificador,4,0.0010,0.1417,587,103,587,103,484
+TAWOS,MULE,D: classificador,6,0.0010,0.1417,587,103,587,103,484
+TAWOS,NEXUS,valor calculado (modelo atual),1,0.0010,inf,285,82,0,0,0
+TAWOS,NEXUS,valor calculado (modelo atual),2,0.0010,1.5946,285,82,158,52,106
+TAWOS,NEXUS,valor calculado (modelo atual),3,0.0010,1.0163,285,82,255,77,178
+TAWOS,NEXUS,valor calculado (modelo atual),4,0.0010,0.2744,285,82,284,82,202
+TAWOS,NEXUS,valor calculado (modelo atual),6,0.0010,0.2744,285,82,284,82,202
+TAWOS,NEXUS,C: quantil 80%,1,0.0010,inf,285,82,0,0,0
+TAWOS,NEXUS,C: quantil 80%,2,0.0010,2.0926,285,82,82,32,50
+TAWOS,NEXUS,C: quantil 80%,3,0.0010,2.0024,285,82,133,47,86
+TAWOS,NEXUS,C: quantil 80%,4,0.0010,0.8617,285,82,285,82,203
+TAWOS,NEXUS,C: quantil 80%,6,0.0010,0.8617,285,82,285,82,203
+TAWOS,NEXUS,D: classificador,1,0.0010,0.5733,285,82,72,24,48
+TAWOS,NEXUS,D: classificador,2,0.0010,0.4104,285,82,214,67,147
+TAWOS,NEXUS,D: classificador,3,0.0010,0.3132,285,82,263,79,184
+TAWOS,NEXUS,D: classificador,4,0.0010,0.1540,285,82,285,82,203
+TAWOS,NEXUS,D: classificador,6,0.0010,0.1540,285,82,285,82,203
+TAWOS,SERVER,valor calculado (modelo atual),1,0.0010,2.9516,104,6,1,1,0
+TAWOS,SERVER,valor calculado (modelo atual),2,0.0010,2.6293,104,6,5,1,4
+TAWOS,SERVER,valor calculado (modelo atual),3,0.0010,2.2447,104,6,23,2,21
+TAWOS,SERVER,valor calculado (modelo atual),4,0.0010,1.9958,104,6,40,3,37
+TAWOS,SERVER,valor calculado (modelo atual),6,0.0010,0.8986,104,6,104,6,98
+TAWOS,SERVER,C: quantil 80%,1,0.0010,6.2694,104,6,0,0,0
+TAWOS,SERVER,C: quantil 80%,2,0.0010,4.4184,104,6,2,1,1
+TAWOS,SERVER,C: quantil 80%,3,0.0010,3.5967,104,6,14,2,12
+TAWOS,SERVER,C: quantil 80%,4,0.0010,3.0061,104,6,25,3,22
+TAWOS,SERVER,C: quantil 80%,6,0.0010,0.4758,104,6,104,6,98
+TAWOS,SERVER,D: classificador,1,0.0010,0.5002,104,6,1,1,0
+TAWOS,SERVER,D: classificador,2,0.0010,0.4064,104,6,9,2,7
+TAWOS,SERVER,D: classificador,3,0.0010,0.3595,104,6,30,3,27
+TAWOS,SERVER,D: classificador,4,0.0010,0.3156,104,6,49,4,45
+TAWOS,SERVER,D: classificador,6,0.0010,0.2133,104,6,96,6,90
+TAWOS,STL,valor calculado (modelo atual),1,0.0010,inf,42,3,0,0,0
+TAWOS,STL,valor calculado (modelo atual),2,0.0010,inf,42,3,0,0,0
+TAWOS,STL,valor calculado (modelo atual),3,0.0010,inf,42,3,0,0,0
+TAWOS,STL,valor calculado (modelo atual),4,0.0010,inf,42,3,0,0,0
+TAWOS,STL,valor calculado (modelo atual),6,0.0010,2.4283,42,3,2,0,2
+TAWOS,STL,C: quantil 80%,1,0.0010,inf,42,3,0,0,0
+TAWOS,STL,C: quantil 80%,2,0.0010,inf,42,3,0,0,0
+TAWOS,STL,C: quantil 80%,3,0.0010,inf,42,3,0,0,0
+TAWOS,STL,C: quantil 80%,4,0.0010,inf,42,3,0,0,0
+TAWOS,STL,C: quantil 80%,6,0.0010,inf,42,3,0,0,0
+TAWOS,STL,D: classificador,1,0.0010,inf,42,3,0,0,0
+TAWOS,STL,D: classificador,2,0.0010,inf,42,3,0,0,0
+TAWOS,STL,D: classificador,3,0.0010,inf,42,3,0,0,0
+TAWOS,STL,D: classificador,4,0.0010,0.5315,42,3,0,0,0
+TAWOS,STL,D: classificador,6,0.0010,0.3787,42,3,6,0,6
+TAWOS,TIDOC,valor calculado (modelo atual),1,0.0010,4.5655,201,70,1,0,1
+TAWOS,TIDOC,valor calculado (modelo atual),2,0.0010,3.3722,201,70,19,3,16
+TAWOS,TIDOC,valor calculado (modelo atual),3,0.0010,2.8040,201,70,78,30,48
+TAWOS,TIDOC,valor calculado (modelo atual),4,0.0010,2.0028,201,70,152,67,85
+TAWOS,TIDOC,valor calculado (modelo atual),6,0.0010,0.4131,201,70,200,70,130
+TAWOS,TIDOC,C: quantil 80%,1,0.0010,11.5515,201,70,1,0,1
+TAWOS,TIDOC,C: quantil 80%,2,0.0010,10.2180,201,70,1,0,1
+TAWOS,TIDOC,C: quantil 80%,3,0.0010,8.3565,201,70,11,1,10
+TAWOS,TIDOC,C: quantil 80%,4,0.0010,5.0258,201,70,65,11,54
+TAWOS,TIDOC,C: quantil 80%,6,0.0010,0.8289,201,70,201,70,131
+TAWOS,TIDOC,D: classificador,1,0.0010,inf,201,70,0,0,0
+TAWOS,TIDOC,D: classificador,2,0.0010,0.5027,201,70,59,13,46
+TAWOS,TIDOC,D: classificador,3,0.0010,0.4569,201,70,73,15,58
+TAWOS,TIDOC,D: classificador,4,0.0010,0.3691,201,70,100,18,82
+TAWOS,TIDOC,D: classificador,6,0.0010,0.1419,201,70,201,70,131
+TAWOS,TIMOB,valor calculado (modelo atual),1,0.0010,inf,783,73,0,0,0
+TAWOS,TIMOB,valor calculado (modelo atual),2,0.0010,7.6279,783,73,0,0,0
+TAWOS,TIMOB,valor calculado (modelo atual),3,0.0010,6.8114,783,73,9,3,6
+TAWOS,TIMOB,valor calculado (modelo atual),4,0.0010,6.0766,783,73,19,7,12
+TAWOS,TIMOB,valor calculado (modelo atual),6,0.0010,5.8106,783,73,28,11,17
+TAWOS,TIMOB,C: quantil 80%,1,0.0010,13.1200,783,73,0,0,0
+TAWOS,TIMOB,C: quantil 80%,2,0.0010,12.6067,783,73,0,0,0
+TAWOS,TIMOB,C: quantil 80%,3,0.0010,12.1572,783,73,0,0,0
+TAWOS,TIMOB,C: quantil 80%,4,0.0010,9.5712,783,73,0,0,0
+TAWOS,TIMOB,C: quantil 80%,6,0.0010,8.7316,783,73,0,0,0
+TAWOS,TIMOB,D: classificador,1,0.0010,inf,783,73,0,0,0
+TAWOS,TIMOB,D: classificador,2,0.0010,inf,783,73,0,0,0
+TAWOS,TIMOB,D: classificador,3,0.0010,inf,783,73,0,0,0
+TAWOS,TIMOB,D: classificador,4,0.0010,inf,783,73,0,0,0
+TAWOS,TIMOB,D: classificador,6,0.0010,inf,783,73,0,0,0
+TAWOS,TISTUD,valor calculado (modelo atual),1,0.0010,inf,559,15,0,0,0
+TAWOS,TISTUD,valor calculado (modelo atual),2,0.0010,inf,559,15,0,0,0
+TAWOS,TISTUD,valor calculado (modelo atual),3,0.0010,inf,559,15,0,0,0
+TAWOS,TISTUD,valor calculado (modelo atual),4,0.0010,inf,559,15,0,0,0
+TAWOS,TISTUD,valor calculado (modelo atual),6,0.0010,inf,559,15,0,0,0
+TAWOS,TISTUD,C: quantil 80%,1,0.0010,inf,559,15,0,0,0
+TAWOS,TISTUD,C: quantil 80%,2,0.0010,inf,559,15,0,0,0
+TAWOS,TISTUD,C: quantil 80%,3,0.0010,inf,559,15,0,0,0
+TAWOS,TISTUD,C: quantil 80%,4,0.0010,inf,559,15,0,0,0
+TAWOS,TISTUD,C: quantil 80%,6,0.0010,inf,559,15,0,0,0
+TAWOS,TISTUD,D: classificador,1,0.0010,inf,559,15,0,0,0
+TAWOS,TISTUD,D: classificador,2,0.0010,inf,559,15,0,0,0
+TAWOS,TISTUD,D: classificador,3,0.0010,inf,559,15,0,0,0
+TAWOS,TISTUD,D: classificador,4,0.0010,inf,559,15,0,0,0
+TAWOS,TISTUD,D: classificador,6,0.0010,0.6013,559,15,4,0,4
+TAWOS,XD,valor calculado (modelo atual),1,0.0010,inf,163,13,0,0,0
+TAWOS,XD,valor calculado (modelo atual),2,0.0010,inf,163,13,0,0,0
+TAWOS,XD,valor calculado (modelo atual),3,0.0010,3.8510,163,13,6,5,1
+TAWOS,XD,valor calculado (modelo atual),4,0.0010,3.7370,163,13,7,5,2
+TAWOS,XD,valor calculado (modelo atual),6,0.0010,2.8392,163,13,66,11,55
+TAWOS,XD,C: quantil 80%,1,0.0010,8.3697,163,13,0,0,0
+TAWOS,XD,C: quantil 80%,2,0.0010,7.8348,163,13,0,0,0
+TAWOS,XD,C: quantil 80%,3,0.0010,7.2089,163,13,1,0,1
+TAWOS,XD,C: quantil 80%,4,0.0010,6.2348,163,13,8,2,6
+TAWOS,XD,C: quantil 80%,6,0.0010,5.2068,163,13,48,6,42
+TAWOS,XD,D: classificador,1,0.0010,0.5809,163,13,4,3,1
+TAWOS,XD,D: classificador,2,0.0010,0.5708,163,13,5,4,1
+TAWOS,XD,D: classificador,3,0.0010,0.5371,163,13,9,6,3
+TAWOS,XD,D: classificador,4,0.0010,0.4448,163,13,28,7,21
+TAWOS,XD,D: classificador,6,0.0010,0.3125,163,13,97,12,85
+RoomBook,roombook,valor calculado (modelo atual),1,0.0010,inf,50,3,0,0,0
+RoomBook,roombook,valor calculado (modelo atual),2,0.0010,5.5291,50,3,14,2,12
+RoomBook,roombook,valor calculado (modelo atual),3,0.0010,5.5194,50,3,14,2,12
+RoomBook,roombook,valor calculado (modelo atual),4,0.0010,5.4781,50,3,15,2,13
+RoomBook,roombook,valor calculado (modelo atual),6,0.0010,5.0661,50,3,26,3,23
+RoomBook,roombook,C: quantil 80%,1,0.0010,8.2579,50,3,10,3,7
+RoomBook,roombook,C: quantil 80%,2,0.0010,7.5120,50,3,16,3,13
+RoomBook,roombook,C: quantil 80%,3,0.0010,7.0006,50,3,18,3,15
+RoomBook,roombook,C: quantil 80%,4,0.0010,6.6466,50,3,19,3,16
+RoomBook,roombook,C: quantil 80%,6,0.0010,6.1422,50,3,24,3,21
+RoomBook,roombook,D: classificador,1,0.0010,0.3880,50,3,5,3,2
+RoomBook,roombook,D: classificador,2,0.0010,0.3304,50,3,6,3,3
+RoomBook,roombook,D: classificador,3,0.0010,0.3114,50,3,9,3,6
+RoomBook,roombook,D: classificador,4,0.0010,0.2948,50,3,10,3,7
+RoomBook,roombook,D: classificador,6,0.0010,0.2590,50,3,17,3,14

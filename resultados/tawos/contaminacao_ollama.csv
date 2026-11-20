@@ -1,0 +1,2 @@
+modelo,provedor,issues,respostas_validas,acertos_exatos,acerto_exato_pct,acertos_embaralhado_media,acertos_embaralhado_p95,p_valor_permutacao,acerto_exato_mediana_equipe_pct,MAE_llm_so_identificador,MAE_mediana_equipe,respostas_distintas
+qwen2.5:14b,ollama,115,115,30,26.08695652173913,30.0,30.0,1.0,34.78260869565217,1.8521739130434782,1.6521739130434783,1

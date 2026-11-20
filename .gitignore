@@ -1,0 +1,10 @@
+# ambiente e caches
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+cache/
+
+# bases públicas: baixar das fontes (ver README)
+dados/*.csv
+/tawos/

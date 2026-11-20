@@ -1,0 +1,47 @@
+You are the Product Owner of a software development team. Write the complete
+backlog of a product, in the order in which it will be developed, for your own
+team to estimate and implement.
+
+PRODUCT
+RoomBook: a web system in which students, professors and staff of a university
+book rooms, labs and equipment. The administrative office approves requests,
+blocks spaces for maintenance and events, and produces usage reports.
+
+TECHNOLOGY (the team knows this stack)
+Web front end in React; REST API in Spring Boot; PostgreSQL database; login
+through the university's single sign-on (SSO); e-mails through an external
+service; container-based deployment.
+
+WHAT TO WRITE
+- 250 items in total, in blocks of 25 per answer. In this answer, first list 8
+  to 12 epics in development order, then write items HIST-001 to HIST-025.
+- About 70% user stories, 20% bugs and 10% technical tasks (for example: set up
+  e-mail sending, add a database index, build the deployment pipeline). A bug
+  only appears after the feature it refers to has been written.
+- The backlog evolves: later items may depend on earlier ones and refer to what
+  already exists.
+- Vary the amount of work as in a real backlog: many small and medium items,
+  some large ones, a few very large ones (for example, an integration with an
+  external system, or a report with several filters and export).
+
+HOW TO WRITE EACH ITEM
+- title: one short sentence.
+- description: for stories, "As a <role>, I want <action>, so that
+  <benefit>."; for bugs, what happens, what should happen and how to reproduce
+  it; for technical tasks, what must be done and why.
+- Then "Acceptance criteria:" with the verifiable conditions the work really
+  needs (Given/When/Then or a list).
+- Write as a careful Product Owner writes for their own team: describe the work
+  to be done, not only the problem.
+
+FORBIDDEN
+- Any estimate: story points, hours, days.
+- Words that classify size: "simple", "quick", "small", "large", "big",
+  "complex", "trivial", "effort".
+- Repeated or near-duplicate items.
+
+ANSWER FORMAT
+After the list of epics, one code block with one JSON line per item:
+{"id": "HIST-001", "epic": "...", "type": "story", "title": "...", "description": "..."}
+"type" is "story", "bug" or "task". Use \n for line breaks inside the
+description.

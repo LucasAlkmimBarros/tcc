@@ -1,0 +1,101 @@
+projeto,issuekey,storypoint,condicao,previsao
+roombook,HIST-201,8.0,mediana historica,5.0
+roombook,HIST-202,13.0,mediana historica,5.0
+roombook,HIST-203,5.0,mediana historica,5.0
+roombook,HIST-204,3.0,mediana historica,5.0
+roombook,HIST-205,5.0,mediana historica,5.0
+roombook,HIST-206,3.0,mediana historica,5.0
+roombook,HIST-207,2.0,mediana historica,5.0
+roombook,HIST-208,5.0,mediana historica,5.0
+roombook,HIST-209,5.0,mediana historica,5.0
+roombook,HIST-210,3.0,mediana historica,5.0
+roombook,HIST-211,8.0,mediana historica,5.0
+roombook,HIST-212,8.0,mediana historica,5.0
+roombook,HIST-213,5.0,mediana historica,5.0
+roombook,HIST-214,5.0,mediana historica,5.0
+roombook,HIST-215,3.0,mediana historica,5.0
+roombook,HIST-216,8.0,mediana historica,5.0
+roombook,HIST-217,5.0,mediana historica,5.0
+roombook,HIST-218,5.0,mediana historica,5.0
+roombook,HIST-219,3.0,mediana historica,5.0
+roombook,HIST-220,8.0,mediana historica,5.0
+roombook,HIST-221,5.0,mediana historica,5.0
+roombook,HIST-222,5.0,mediana historica,5.0
+roombook,HIST-223,3.0,mediana historica,5.0
+roombook,HIST-224,3.0,mediana historica,5.0
+roombook,HIST-225,8.0,mediana historica,5.0
+roombook,HIST-226,5.0,mediana historica,5.0
+roombook,HIST-227,3.0,mediana historica,5.0
+roombook,HIST-228,3.0,mediana historica,5.0
+roombook,HIST-229,8.0,mediana historica,5.0
+roombook,HIST-230,5.0,mediana historica,5.0
+roombook,HIST-231,3.0,mediana historica,5.0
+roombook,HIST-232,8.0,mediana historica,5.0
+roombook,HIST-233,5.0,mediana historica,5.0
+roombook,HIST-234,5.0,mediana historica,5.0
+roombook,HIST-235,3.0,mediana historica,5.0
+roombook,HIST-236,5.0,mediana historica,5.0
+roombook,HIST-237,8.0,mediana historica,5.0
+roombook,HIST-238,5.0,mediana historica,5.0
+roombook,HIST-239,5.0,mediana historica,5.0
+roombook,HIST-240,3.0,mediana historica,5.0
+roombook,HIST-241,8.0,mediana historica,5.0
+roombook,HIST-242,5.0,mediana historica,5.0
+roombook,HIST-243,13.0,mediana historica,5.0
+roombook,HIST-244,5.0,mediana historica,5.0
+roombook,HIST-245,5.0,mediana historica,5.0
+roombook,HIST-246,3.0,mediana historica,5.0
+roombook,HIST-247,5.0,mediana historica,5.0
+roombook,HIST-248,8.0,mediana historica,5.0
+roombook,HIST-249,3.0,mediana historica,5.0
+roombook,HIST-250,20.0,mediana historica,5.0
+roombook,HIST-201,8.0,TF-IDF + SVR,6.13672557342961
+roombook,HIST-202,13.0,TF-IDF + SVR,6.387547337440545
+roombook,HIST-203,5.0,TF-IDF + SVR,5.670452499068585
+roombook,HIST-204,3.0,TF-IDF + SVR,5.053777382511557
+roombook,HIST-205,5.0,TF-IDF + SVR,5.253890651612997
+roombook,HIST-206,3.0,TF-IDF + SVR,4.320188521258339
+roombook,HIST-207,2.0,TF-IDF + SVR,3.1692904827194432
+roombook,HIST-208,5.0,TF-IDF + SVR,5.978740755460617
+roombook,HIST-209,5.0,TF-IDF + SVR,5.627350497107315
+roombook,HIST-210,3.0,TF-IDF + SVR,3.75252417068366
+roombook,HIST-211,8.0,TF-IDF + SVR,5.030753120429022
+roombook,HIST-212,8.0,TF-IDF + SVR,5.572451770848797
+roombook,HIST-213,5.0,TF-IDF + SVR,5.675353387617848
+roombook,HIST-214,5.0,TF-IDF + SVR,4.393319624070845
+roombook,HIST-215,3.0,TF-IDF + SVR,3.25022731121239
+roombook,HIST-216,8.0,TF-IDF + SVR,5.504270402699306
+roombook,HIST-217,5.0,TF-IDF + SVR,5.382886555376057
+roombook,HIST-218,5.0,TF-IDF + SVR,5.132181703503729
+roombook,HIST-219,3.0,TF-IDF + SVR,3.1936121211660833
+roombook,HIST-220,8.0,TF-IDF + SVR,5.627702392319655
+roombook,HIST-221,5.0,TF-IDF + SVR,5.279639307652611
+roombook,HIST-222,5.0,TF-IDF + SVR,5.065447429855754
+roombook,HIST-223,3.0,TF-IDF + SVR,3.5910156072665473
+roombook,HIST-224,3.0,TF-IDF + SVR,5.1416667791967665
+roombook,HIST-225,8.0,TF-IDF + SVR,5.194566947993305
+roombook,HIST-226,5.0,TF-IDF + SVR,5.075546347831014
+roombook,HIST-227,3.0,TF-IDF + SVR,4.817670550487624
+roombook,HIST-228,3.0,TF-IDF + SVR,3.087744480074199
+roombook,HIST-229,8.0,TF-IDF + SVR,4.884998644989698
+roombook,HIST-230,5.0,TF-IDF + SVR,4.210001513848853
+roombook,HIST-231,3.0,TF-IDF + SVR,3.212787595097722
+roombook,HIST-232,8.0,TF-IDF + SVR,6.08552520411772
+roombook,HIST-233,5.0,TF-IDF + SVR,4.9312248020166685
+roombook,HIST-234,5.0,TF-IDF + SVR,5.360579082646877
+roombook,HIST-235,3.0,TF-IDF + SVR,3.1845590003542967
+roombook,HIST-236,5.0,TF-IDF + SVR,5.641813850737137
+roombook,HIST-237,8.0,TF-IDF + SVR,4.656762216270705
+roombook,HIST-238,5.0,TF-IDF + SVR,5.172930142928841
+roombook,HIST-239,5.0,TF-IDF + SVR,4.831821302334509
+roombook,HIST-240,3.0,TF-IDF + SVR,3.7366477976835126
+roombook,HIST-241,8.0,TF-IDF + SVR,5.561575083523328
+roombook,HIST-242,5.0,TF-IDF + SVR,4.948303172322802
+roombook,HIST-243,13.0,TF-IDF + SVR,6.061829736043397
+roombook,HIST-244,5.0,TF-IDF + SVR,5.090077179684471
+roombook,HIST-245,5.0,TF-IDF + SVR,4.7848233487904865
+roombook,HIST-246,3.0,TF-IDF + SVR,3.6400783071683125
+roombook,HIST-247,5.0,TF-IDF + SVR,5.55409718626513
+roombook,HIST-248,8.0,TF-IDF + SVR,5.7122956767101964
+roombook,HIST-249,3.0,TF-IDF + SVR,3.793263068604503
+roombook,HIST-250,20.0,TF-IDF + SVR,5.395319308151009

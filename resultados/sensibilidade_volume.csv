@@ -1,0 +1,16 @@
+base,N,projetos,termos_no_vocabulario,termos_do_teste_reconhecidos_pct,MAE_modelo,MAE_mediana
+base construida (teste: historias 201 a 250),25,1,489.0000,28.8040,1.8857,1.9000
+base construida (teste: historias 201 a 250),50,1,962.0000,41.0301,1.7243,1.9000
+base construida (teste: historias 201 a 250),100,1,1801.0000,48.8941,1.5712,1.9000
+base construida (teste: historias 201 a 250),150,1,2526.0000,52.6009,1.5199,1.9000
+base construida (teste: historias 201 a 250),200,1,3160.0000,54.4952,1.5399,1.9000
+base construida (media de 3 janelas de teste de 50),25,1,490.3333,28.7410,1.8710,1.8933
+base construida (media de 3 janelas de teste de 50),50,1,958.6667,38.8037,1.7806,1.8933
+base construida (media de 3 janelas de teste de 50),100,1,1759.0000,46.5411,1.6182,1.8933
+base construida (media de 3 janelas de teste de 50),150,1,2455.3333,50.0352,1.5754,1.8933
+Deep-SE (teste: 20% finais; so projetos com N historias),25,16,259.7500,18.2635,2.7618,2.7673
+Deep-SE (teste: 20% finais; so projetos com N historias),50,16,554.3750,26.1182,2.6457,2.7691
+Deep-SE (teste: 20% finais; so projetos com N historias),100,16,1130.2500,35.2465,2.6728,2.7561
+Deep-SE (teste: 20% finais; so projetos com N historias),200,16,2026.5000,41.5137,2.5608,2.5591
+Deep-SE (teste: 20% finais; so projetos com N historias),400,13,3629.5385,47.5994,2.5980,2.6377
+Deep-SE (teste: 20% finais; so projetos com N historias),800,7,4886.0000,51.6999,3.1841,3.1758

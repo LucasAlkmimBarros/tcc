@@ -1,0 +1,3 @@
+parte,historias,primeira,ultima,mediana,maior_ponto,pct_com_20_ou_mais,pct_0_ou_1_ponto,no_historico_do_artigo,no_teste_do_artigo
+antes da troca,1026,MDL-1626,MDL-47490,8.0,100.0,32.84600389863548,2.046783625730994,932,94
+depois da troca,140,MDL-47492,MDL-55173,2.0,13.0,0.0,38.57142857142858,0,140

@@ -1,0 +1,4 @@
+treino,teste,corte_oficial,MAE_modelo,MAE_mediana,ganho_medio,ic95_inf,ic95_sup,modelo_erra_menos_em,mediana_erra_menos_em,p_wilcoxon_historias
+historias 1 a 150,historias 151 a 200,False,1.7229,1.9400,0.2171,0.0177,0.4339,22,28,0.3673
+historias 1 a 175,historias 176 a 225,False,1.5181,1.8400,0.3219,0.1108,0.5377,25,25,0.0381
+historias 1 a 200,historias 201 a 250,True,1.5399,1.9000,0.3601,0.1318,0.5906,25,25,0.0329

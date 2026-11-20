@@ -1,0 +1,7 @@
+You are an experienced member of an agile software team. Your team estimates the effort of user stories with Planning Poker, using the cards 0.5, 1, 2, 3, 5, 8, 13, 20, 40 and 100 story points.
+
+Estimate the effort of each user story below. Judge each story on its own: the stories are independent and are not a set that must use the whole scale.
+
+$historias
+
+Answer only with JSON in the form {"estimates": [{"story": "S1", "story_points": <one of the cards>}, ...]}, with one entry for each story, in order.

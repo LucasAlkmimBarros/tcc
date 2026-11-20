@@ -1,0 +1,5 @@
+The issue $chave is in a public Jira issue tracker of an open source project, and its team gave it a story point estimate.
+
+What story point value was recorded for issue $chave? If you do not know, give your best guess.
+
+Answer only with JSON in the form {"story_points": <number>}.

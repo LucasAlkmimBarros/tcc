@@ -1,0 +1,115 @@
+{
+  "sobre": "10 historias padrao para o dia zero (ideia do Humberto, 15/11). A equipe vota quantos pontos daria a cada uma, e os votos viram as referencias do LLM. Escritas pelo Claude em 2026-11-15, antes de abrir as historias da RoomBook, com tres regras: funcionalidades que existem em quase todo sistema web; quantidade de trabalho bem variada, para os votos cobrirem os cartoes; nenhuma palavra que classifique o tamanho. A ordem e misturada de proposito, para a equipe nao ser levada pela sequencia. 'en' e a mesma historia em ingles, usada no teste na base construida, que e em ingles.",
+  "historias": [
+    {
+      "id": "PAD-01",
+      "pt": {
+        "titulo": "Recuperar a senha por e-mail",
+        "descricao": "Como usuário, quero receber por e-mail um link para criar uma senha nova, para voltar a entrar quando esquecer a minha.\n\nCritérios de aceitação:\n- Na tela de login, o link \"Esqueci a senha\" pede o e-mail.\n- Se o e-mail estiver cadastrado, o sistema envia um link que vale por 1 hora e só pode ser usado uma vez.\n- A resposta na tela é a mesma para e-mail cadastrado ou não, para não revelar quem tem conta.\n- A senha nova segue as regras de senha que já existem.\n- Depois da troca, as sessões abertas do usuário são encerradas."
+      },
+      "en": {
+        "title": "Reset the password by e-mail",
+        "description": "As a user, I want to receive by e-mail a link to create a new password, so that I can log in again when I forget mine.\n\nAcceptance criteria:\n- On the login screen, the \"Forgot password\" link asks for the e-mail.\n- If the e-mail is registered, the system sends a link that is valid for 1 hour and can be used only once.\n- The message on screen is the same whether the e-mail is registered or not, so that it does not reveal who has an account.\n- The new password follows the password rules that already exist.\n- After the change, the user's open sessions are ended."
+      }
+    },
+    {
+      "id": "PAD-02",
+      "pt": {
+        "titulo": "O campo de e-mail aceita espaços no fim",
+        "descricao": "O que acontece: no cadastro, um e-mail digitado com espaço no fim (\"ana@empresa.com \") é salvo assim, e depois a pessoa não consegue entrar digitando o e-mail sem o espaço.\nO que deveria acontecer: os espaços no começo e no fim são removidos antes de salvar.\nComo reproduzir: cadastrar um usuário com espaço no fim do e-mail e tentar entrar sem o espaço.\n\nCritérios de aceitação:\n- Os espaços no começo e no fim do e-mail são removidos no cadastro e no login.\n- As mensagens de erro do formulário não mudam."
+      },
+      "en": {
+        "title": "The e-mail field accepts trailing spaces",
+        "description": "What happens: at sign-up, an e-mail typed with a trailing space (\"ana@company.com \") is saved that way, and later the person cannot log in typing the e-mail without the space.\nWhat should happen: leading and trailing spaces are removed before saving.\nHow to reproduce: sign up a user with a space at the end of the e-mail and try to log in without the space.\n\nAcceptance criteria:\n- Leading and trailing spaces are removed from the e-mail at sign-up and at login.\n- The form's error messages do not change."
+      }
+    },
+    {
+      "id": "PAD-03",
+      "pt": {
+        "titulo": "Exportar o relatório mensal em PDF e em planilha",
+        "descricao": "Como gestor, quero exportar o relatório mensal em PDF e em planilha, para enviar à diretoria e fazer minhas próprias contas.\n\nCritérios de aceitação:\n- O botão \"Exportar\" oferece PDF e planilha (.xlsx).\n- A exportação respeita os filtros aplicados na tela (período, status e responsável).\n- O PDF tem cabeçalho com o nome do sistema, o período e a data de geração, e uma linha de totais.\n- A planilha traz uma linha por registro, com as mesmas colunas da tela.\n- Com mais de 5.000 registros, o arquivo é gerado em segundo plano e o gestor recebe o link por e-mail."
+      },
+      "en": {
+        "title": "Export the monthly report as PDF and spreadsheet",
+        "description": "As a manager, I want to export the monthly report as PDF and as a spreadsheet, so that I can send it to the board and do my own calculations.\n\nAcceptance criteria:\n- The \"Export\" button offers PDF and spreadsheet (.xlsx).\n- The export respects the filters applied on screen (period, status and assignee).\n- The PDF has a header with the system name, the period and the generation date, and a totals row.\n- The spreadsheet has one row per record, with the same columns as the screen.\n- With more than 5,000 records, the file is generated in the background and the manager receives the link by e-mail."
+      }
+    },
+    {
+      "id": "PAD-04",
+      "pt": {
+        "titulo": "Mostrar a data da última alteração na tela de detalhes",
+        "descricao": "Como usuário, quero ver quando um registro foi alterado pela última vez, para saber se a informação está atualizada.\n\nCritérios de aceitação:\n- A tela de detalhes mostra \"Alterado em dd/mm/aaaa hh:mm\" abaixo do título.\n- A data já é gravada no banco; só falta exibi-la.\n- Registros nunca alterados mostram a data de criação."
+      },
+      "en": {
+        "title": "Show the date of the last change on the details screen",
+        "description": "As a user, I want to see when a record was last changed, so that I know whether the information is up to date.\n\nAcceptance criteria:\n- The details screen shows \"Changed on dd/mm/yyyy hh:mm\" below the title.\n- The date is already stored in the database; it only needs to be displayed.\n- Records that were never changed show the creation date."
+      }
+    },
+    {
+      "id": "PAD-05",
+      "pt": {
+        "titulo": "Sincronizar os usuários com o sistema de cadastro da empresa",
+        "descricao": "Como administrador, quero que os usuários sejam sincronizados todo dia com o sistema de cadastro da empresa, por uma API externa, para não cadastrar nem desativar pessoas à mão.\n\nCritérios de aceitação:\n- Uma rotina diária busca na API externa as pessoas novas, alteradas e desligadas.\n- Pessoas novas são criadas; alteradas têm nome, e-mail e setor atualizados; desligadas são desativadas, sem apagar o histórico.\n- Se a API estiver fora do ar, a rotina tenta de novo 3 vezes, com intervalo de 10 minutos.\n- Cada execução fica registrada com o número de criados, alterados, desativados e erros.\n- Uma tela de administração lista as execuções e os erros de cada uma, e permite rodar a sincronização na hora.\n- A integração é testada no ambiente de testes da API externa antes de ir para produção."
+      },
+      "en": {
+        "title": "Synchronize users with the company's directory system",
+        "description": "As an administrator, I want users to be synchronized every day with the company's directory system, through an external API, so that I do not create or deactivate people by hand.\n\nAcceptance criteria:\n- A daily job fetches from the external API the people who are new, changed and gone.\n- New people are created; changed ones have name, e-mail and department updated; people who left are deactivated, without deleting their history.\n- If the API is down, the job retries 3 times, 10 minutes apart.\n- Each run is recorded with the number of created, changed, deactivated and failed records.\n- An administration screen lists the runs and the errors of each one, and allows running the synchronization immediately.\n- The integration is tested in the external API's test environment before going to production."
+      }
+    },
+    {
+      "id": "PAD-06",
+      "pt": {
+        "titulo": "Ordenar a lista clicando no nome da coluna",
+        "descricao": "Como usuário, quero ordenar a lista de registros clicando no nome de uma coluna, para encontrar mais fácil o que procuro.\n\nCritérios de aceitação:\n- Um clique ordena em ordem crescente; outro clique, em ordem decrescente.\n- Uma seta ao lado do nome mostra a coluna e a direção da ordenação.\n- A ordenação vale para todas as páginas da lista, não só para a página aberta.\n- Ao trocar de página, a ordenação escolhida continua."
+      },
+      "en": {
+        "title": "Sort the list by clicking the column name",
+        "description": "As a user, I want to sort the list of records by clicking the name of a column, so that I can find what I am looking for more easily.\n\nAcceptance criteria:\n- One click sorts in ascending order; another click, in descending order.\n- An arrow next to the name shows the column and the direction of the sorting.\n- The sorting applies to all pages of the list, not only to the open page.\n- When changing pages, the chosen sorting is kept."
+      }
+    },
+    {
+      "id": "PAD-07",
+      "pt": {
+        "titulo": "Registrar quem alterou cada registro (auditoria)",
+        "descricao": "Implementar um registro de auditoria: toda criação, alteração e exclusão de qualquer registro do sistema deve guardar quem fez, quando e o que mudou. Hoje não há como saber quem alterou um dado, e a área de conformidade passou a exigir isso.\n\nCritérios de aceitação:\n- Vale para todas as entidades do sistema, inclusive as que forem criadas depois.\n- Cada alteração guarda o usuário, a data e hora, a entidade, e o valor de cada campo antes e depois.\n- O registro de auditoria não pode ser alterado nem apagado pela aplicação.\n- Uma tela, só para administradores, busca por usuário, entidade e período.\n- Os registros ficam guardados por 5 anos.\n- O tempo de resposta das telas atuais não pode piorar de forma perceptível."
+      },
+      "en": {
+        "title": "Record who changed each record (audit trail)",
+        "description": "Implement an audit trail: every creation, change and deletion of any record in the system must store who did it, when and what changed. Today there is no way to know who changed a piece of data, and the compliance area now requires it.\n\nAcceptance criteria:\n- It applies to every entity in the system, including the ones created later.\n- Each change stores the user, the date and time, the entity, and the value of each field before and after.\n- The audit trail cannot be changed or deleted by the application.\n- A screen, for administrators only, searches by user, entity and period.\n- The records are kept for 5 years.\n- The response time of the current screens must not get noticeably worse."
+      }
+    },
+    {
+      "id": "PAD-08",
+      "pt": {
+        "titulo": "Adicionar o telefone ao cadastro do usuário",
+        "descricao": "Como usuário, quero informar meu telefone no cadastro, para que a equipe de suporte consiga falar comigo.\n\nCritérios de aceitação:\n- O campo \"Telefone\" é opcional e aparece no cadastro e na edição do perfil.\n- O sistema aceita telefones com DDD, com ou sem o nono dígito, e mostra uma mensagem se o formato for inválido.\n- O telefone é gravado no banco (campo novo) e aparece na tela de detalhes do usuário para o suporte.\n- Usuários já cadastrados ficam com o campo vazio."
+      },
+      "en": {
+        "title": "Add the phone number to the user profile",
+        "description": "As a user, I want to enter my phone number in my profile, so that the support team can reach me.\n\nAcceptance criteria:\n- The \"Phone\" field is optional and appears at sign-up and when editing the profile.\n- The system accepts phone numbers with area code, and shows a message if the format is invalid.\n- The phone number is stored in the database (new field) and appears on the user details screen for the support team.\n- Users already registered keep the field empty."
+      }
+    },
+    {
+      "id": "PAD-09",
+      "pt": {
+        "titulo": "Filtrar a lista e salvar os filtros",
+        "descricao": "Como usuário, quero filtrar a lista de registros por período, status e responsável, e salvar combinações de filtros com um nome, para não montar os mesmos filtros todo dia.\n\nCritérios de aceitação:\n- Filtros por período (data inicial e final), status (vários ao mesmo tempo) e responsável (busca pelo nome).\n- Os filtros podem ser combinados, e a lista mostra quantos registros encontrou.\n- O botão \"Salvar filtro\" pede um nome; os filtros salvos aparecem num menu e são de cada usuário.\n- O usuário pode renomear e excluir os filtros salvos.\n- O endereço da página guarda os filtros, para poder enviar o link a um colega."
+      },
+      "en": {
+        "title": "Filter the list and save the filters",
+        "description": "As a user, I want to filter the list of records by period, status and assignee, and save combinations of filters with a name, so that I do not build the same filters every day.\n\nAcceptance criteria:\n- Filters by period (start and end date), status (several at once) and assignee (search by name).\n- Filters can be combined, and the list shows how many records were found.\n- The \"Save filter\" button asks for a name; saved filters appear in a menu and belong to each user.\n- The user can rename and delete saved filters.\n- The page address keeps the filters, so that the link can be sent to a colleague."
+      }
+    },
+    {
+      "id": "PAD-10",
+      "pt": {
+        "titulo": "Avisar antes de a sessão expirar",
+        "descricao": "O que acontece: depois de 30 minutos sem atividade, a sessão expira sem aviso, e quem estava preenchendo um formulário perde o que digitou ao clicar em \"Salvar\".\nO que deveria acontecer: o sistema avisa antes e permite continuar.\nComo reproduzir: abrir um formulário, esperar 30 minutos e clicar em \"Salvar\".\n\nCritérios de aceitação:\n- 2 minutos antes de expirar, aparece um aviso com o botão \"Continuar conectado\", que renova a sessão.\n- Se a sessão expirar com um formulário aberto, o que foi digitado é guardado no navegador e preenchido de novo depois do login.\n- O aviso funciona com o sistema aberto em várias abas ao mesmo tempo."
+      },
+      "en": {
+        "title": "Warn before the session expires",
+        "description": "What happens: after 30 minutes without activity, the session expires without warning, and whoever was filling in a form loses what they typed when clicking \"Save\".\nWhat should happen: the system warns beforehand and allows continuing.\nHow to reproduce: open a form, wait 30 minutes and click \"Save\".\n\nAcceptance criteria:\n- 2 minutes before expiring, a warning appears with a \"Stay signed in\" button, which renews the session.\n- If the session expires with a form open, what was typed is kept in the browser and filled in again after login.\n- The warning works with the system open in several tabs at the same time."
+      }
+    }
+  ]
+}
