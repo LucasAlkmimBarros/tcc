@@ -48,7 +48,7 @@ ROTULO = {"dia zero": f"**Dia zero** · menos de {pv.MIN_MEDIANA} estimadas",
 LLM = {"gemini": "Gemini (envia o texto ao Google)",
        "ollama": "Qwen local (não envia nada para fora)"}
 DICA_CARD = "Cole a descrição do card, com os critérios de aceitação, se houver."
-POR_QUE_DUAS = ("Nenhuma das duas foi melhor em tudo nos testes com 39 projetos: a mediana "
+POR_QUE_DUAS = ("Nenhuma das duas foi melhor em tudo nos testes com as bases públicas: a mediana "
                 "erra por mais de 1 ponto menos vezes, e o modelo comete menos erros grandes.")
 PERTO = ("A sugestão é o cartão mais próximo do valor calculado. Nos testes, 7 em cada 10 "
          "sugestões do modelo caíram no mesmo cartão da mediana, e ele quase nunca sugeriu "
